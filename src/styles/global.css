@@ -88,3 +88,14 @@ h3 {
   margin: 0 auto;
   padding: 0 var(--spacing-sm);
 }
+
+/* Mobile */
+@media (max-width: 600px) {
+  :root {
+    --text-2xl: 1.75rem;
+    --text-xl: 1.5rem;
+    --text-lg: 1.25rem;
+    --spacing-lg: 2.5rem;
+    --spacing-xl: 3.5rem;
+  }
+}
