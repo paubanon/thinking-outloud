@@ -1,17 +1,32 @@
 ---
-
+/**
+ * Root page — redirects to the user's preferred locale.
+ * Since this is a static site, we use a client-side redirect.
+ */
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <title>Pensando en Voz Alta</title>
+    <script is:inline>
+      (function () {
+        var stored = localStorage.getItem('locale');
+        if (stored === 'en' || stored === 'es') {
+          window.location.replace('/' + stored + '/');
+          return;
+        }
+        var lang = navigator.language || navigator.userLanguage || 'es';
+        var locale = lang.startsWith('en') ? 'en' : 'es';
+        localStorage.setItem('locale', locale);
+        window.location.replace('/' + locale + '/');
+      })();
+    </script>
+  </head>
+  <body>
+    <noscript>
+      <meta http-equiv="refresh" content="0;url=/es/" />
+    </noscript>
+  </body>
 </html>
