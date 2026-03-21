@@ -1,14 +1,20 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
+import Search from '../../components/Search.astro';
+import TagFilter from '../../components/TagFilter.astro';
 import { getCollection } from 'astro:content';
 
 const allPosts = await getCollection('posts', ({ data }) => data.lang === 'en');
 const sortedPosts = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+const allTags = [...new Set(sortedPosts.flatMap((p) => p.data.tags))].sort();
 ---
 
 <BaseLayout title="Thinking Out Loud">
   <main>
+    <Search lang="en" placeholder="Search..." />
+    {allTags.length > 0 && <TagFilter tags={allTags} allLabel="All" />}
     {sortedPosts.length === 0 && <p class="empty">No posts yet.</p>}
     {sortedPosts.map((post) => (
       <PostCard

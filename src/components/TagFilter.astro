@@ -1,0 +1,99 @@
+---
+interface Props {
+  tags: string[];
+  allLabel: string;
+}
+
+const { tags, allLabel } = Astro.props;
+---
+
+<nav class="tag-filter" aria-label="Filter posts by tag">
+  <ul class="tag-list">
+    <li>
+      <button class="tag-btn active" data-tag="all">{allLabel}</button>
+    </li>
+    {tags.map((tag) => (
+      <li>
+        <button class="tag-btn" data-tag={tag}>{tag}</button>
+      </li>
+    ))}
+  </ul>
+</nav>
+
+<style>
+  .tag-filter {
+    margin-bottom: var(--spacing-md);
+  }
+
+  .tag-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-xs);
+  }
+
+  .tag-btn {
+    background: none;
+    border: none;
+    padding: var(--spacing-xs) var(--spacing-sm);
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+    cursor: pointer;
+    text-decoration: none;
+    transition: color 0.15s ease;
+  }
+
+  .tag-btn:hover {
+    color: var(--color-text);
+  }
+
+  .tag-btn.active {
+    color: var(--color-text);
+    font-weight: 700;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+</style>
+
+<script>
+  function initTagFilter() {
+    const buttons = document.querySelectorAll<HTMLButtonElement>('.tag-filter .tag-btn');
+    const postCards = document.querySelectorAll<HTMLElement>('.post-card');
+
+    buttons.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const selectedTag = btn.dataset.tag;
+
+        buttons.forEach((b) => b.classList.remove('active'));
+        btn.classList.add('active');
+
+        if (selectedTag === 'all') {
+          postCards.forEach((card) => {
+            card.style.display = '';
+          });
+          return;
+        }
+
+        postCards.forEach((card) => {
+          const tagsContainer = card.querySelector('.tags');
+          if (!tagsContainer) {
+            card.style.display = 'none';
+            return;
+          }
+
+          const tagElements = tagsContainer.querySelectorAll('*');
+          const hasTag = Array.from(tagElements).some(
+            (el) => el.textContent?.trim() === selectedTag
+          );
+
+          card.style.display = hasTag ? '' : 'none';
+        });
+      });
+    });
+  }
+
+  document.addEventListener('astro:page-load', initTagFilter);
+  initTagFilter();
+</script>
