@@ -10,7 +10,6 @@ const posts = defineCollection({
     tags: z.array(z.string()).default([]),
     videoUrl: z.string().url(),
     lang: z.enum(['es', 'en']),
-    slug: z.string(),
   }),
 });
 

@@ -4,7 +4,6 @@ date: 2026-03-15
 tags: ["productivity", "reflections", "work"]
 videoUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 lang: "en"
-slug: "la-trampa-de-la-productividad"
 ---
 
 I've been thinking about something that worries me for a while now. We've turned productivity into a religion. And like every religion, it has its dogmas, its rituals, and its heretics.

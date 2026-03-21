@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="About — Thinking Out Loud">
+  <section class="about">
+    <h1>About this project</h1>
+
+    <img src="/images/author.jpg" alt="Pablo Bañón" class="author-photo" />
+
+    <p>
+      This is a space for thoughts shared in long form, unfiltered and unedited.
+      The videos are recorded in a single take — what you see is what was thought in that moment.
+      This website is the written counterpart of those reflections.
+    </p>
+
+    <p>
+      The idea is simple: thinking out loud, letting ideas flow just as they come,
+      without polishing or disguising them. Sometimes they will be clear, sometimes messy — but always honest.
+    </p>
+
+    <p class="channel-link">
+      You can watch the videos on the
+      <a href="https://youtube.com/@pensandoenvozalta">YouTube channel</a>.
+    </p>
+
+    <a href="/en/" class="back-link">&larr; Back to home</a>
+  </section>
+</BaseLayout>
+
+<style>
+  .about {
+    padding: var(--spacing-lg) 0;
+    max-width: var(--max-width);
+  }
+
+  h1 {
+    margin-bottom: var(--spacing-lg);
+  }
+
+  .author-photo {
+    max-width: 280px;
+    margin-bottom: var(--spacing-lg);
+  }
+
+  p {
+    font-size: var(--text-base);
+    color: var(--color-text);
+    margin-bottom: var(--spacing-md);
+  }
+
+  .channel-link {
+    color: var(--color-muted);
+  }
+
+  .back-link {
+    display: inline-block;
+    margin-top: var(--spacing-md);
+    font-size: var(--text-base);
+    color: var(--color-muted);
+  }
+</style>

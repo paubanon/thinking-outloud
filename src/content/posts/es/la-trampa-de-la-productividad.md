@@ -4,7 +4,6 @@ date: 2026-03-15
 tags: ["productividad", "reflexiones", "trabajo"]
 videoUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 lang: "es"
-slug: "la-trampa-de-la-productividad"
 ---
 
 Llevo un tiempo pensando en algo que me preocupa. Hemos convertido la productividad en una religión. Y como toda religión, tiene sus dogmas, sus rituales y sus herejes.

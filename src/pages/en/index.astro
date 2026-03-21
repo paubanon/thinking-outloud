@@ -1,8 +1,50 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts', ({ data }) => data.lang === 'en');
+const sortedPosts = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 ---
 
 <BaseLayout title="Thinking Out Loud">
-  <h1>Thinking Out Loud</h1>
-  <p>Coming soon — long-form thoughts, unfiltered and unedited.</p>
+  <header class="site-header">
+    <h1><a href="/en/">Thinking Out Loud</a></h1>
+  </header>
+
+  <main>
+    {sortedPosts.length === 0 && <p class="empty">No posts yet.</p>}
+    {sortedPosts.map((post) => (
+      <PostCard
+        title={post.data.title}
+        date={post.data.date}
+        tags={post.data.tags}
+        slug={post.id.split('/').pop()!}
+        lang="en"
+        body={post.body ?? ''}
+      />
+    ))}
+  </main>
 </BaseLayout>
+
+<style>
+  .site-header {
+    padding: var(--spacing-xl) 0 var(--spacing-lg);
+    border-bottom: 1px solid var(--color-border);
+    margin-bottom: var(--spacing-md);
+  }
+
+  .site-header h1 {
+    font-size: var(--text-2xl);
+  }
+
+  .site-header a {
+    text-decoration: none;
+    color: var(--color-text);
+  }
+
+  .empty {
+    color: var(--color-muted);
+    padding: var(--spacing-lg) 0;
+  }
+</style>

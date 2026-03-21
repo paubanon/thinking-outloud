@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Sobre — Pensando en Voz Alta">
+  <section class="about">
+    <h1>Sobre este proyecto</h1>
+
+    <img src="/images/author.jpg" alt="Pablo Bañón" class="author-photo" />
+
+    <p>
+      Este es un espacio para pensamientos compartidos en formato largo, sin filtros y sin editar.
+      Los vídeos se graban en una sola toma — lo que ves es lo que se pensó en ese momento.
+      Esta web es la contrapartida escrita de esas reflexiones.
+    </p>
+
+    <p>
+      La idea es sencilla: pensar en voz alta, dejar que las ideas fluyan tal y como llegan,
+      sin pulirlas ni disfrazarlas. A veces serán claras, a veces desordenadas — pero siempre honestas.
+    </p>
+
+    <p class="channel-link">
+      Puedes ver los vídeos en el
+      <a href="https://youtube.com/@pensandoenvozalta">canal de YouTube</a>.
+    </p>
+
+    <a href="/es/" class="back-link">&larr; Volver al inicio</a>
+  </section>
+</BaseLayout>
+
+<style>
+  .about {
+    padding: var(--spacing-lg) 0;
+    max-width: var(--max-width);
+  }
+
+  h1 {
+    margin-bottom: var(--spacing-lg);
+  }
+
+  .author-photo {
+    max-width: 280px;
+    margin-bottom: var(--spacing-lg);
+  }
+
+  p {
+    font-size: var(--text-base);
+    color: var(--color-text);
+    margin-bottom: var(--spacing-md);
+  }
+
+  .channel-link {
+    color: var(--color-muted);
+  }
+
+  .back-link {
+    display: inline-block;
+    margin-top: var(--spacing-md);
+    font-size: var(--text-base);
+    color: var(--color-muted);
+  }
+</style>

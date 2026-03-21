@@ -4,7 +4,6 @@ date: 2026-03-10
 tags: ["reflexiones", "vida cotidiana"]
 videoUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 lang: "es"
-slug: "sobre-el-silencio"
 ---
 
 Hoy quiero hablar sobre el silencio. No el silencio incómodo que aparece cuando no sabes qué decir, sino ese otro silencio — el que eliges. El que buscas.

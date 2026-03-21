@@ -4,7 +4,6 @@ date: 2026-03-10
 tags: ["reflections", "everyday life"]
 videoUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 lang: "en"
-slug: "sobre-el-silencio"
 ---
 
 Today I want to talk about silence. Not the awkward silence that shows up when you don't know what to say, but that other silence — the one you choose. The one you seek out.
