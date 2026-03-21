@@ -1,0 +1,114 @@
+---
+interface Props {
+  lang: 'es' | 'en';
+}
+
+const { lang } = Astro.props;
+
+const siteName = lang === 'es' ? 'Pensando en Voz Alta' : 'Thinking Out Loud';
+const homeLink = lang === 'es' ? '/es/' : '/en/';
+const aboutLabel = lang === 'es' ? 'Sobre' : 'About';
+const aboutLink = lang === 'es' ? '/es/sobre/' : '/en/about/';
+---
+
+<header class="header">
+  <nav class="header-inner">
+    <a href={homeLink} class="site-name">{siteName}</a>
+    <div class="header-right">
+      <a href={aboutLink} class="about-link">{aboutLabel}</a>
+      <span class="lang-toggle">
+        {lang === 'es' ? (
+          <strong>ES</strong>
+        ) : (
+          <a href="/es/" class="lang-link" data-lang="es">ES</a>
+        )}
+        <span class="lang-sep">/</span>
+        {lang === 'en' ? (
+          <strong>EN</strong>
+        ) : (
+          <a href="/en/" class="lang-link" data-lang="en">EN</a>
+        )}
+      </span>
+    </div>
+  </nav>
+</header>
+
+<script>
+  document.querySelectorAll('.lang-link').forEach((link) => {
+    link.addEventListener('click', () => {
+      const locale = (link as HTMLElement).dataset.lang;
+      if (locale) {
+        localStorage.setItem('locale', locale);
+      }
+    });
+  });
+</script>
+
+<style>
+  .header {
+    border-bottom: 1px solid var(--color-border);
+    font-family: var(--font-body);
+  }
+
+  .header-inner {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: var(--spacing-md) var(--spacing-md);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .site-name {
+    font-size: var(--text-lg);
+    color: var(--color-text);
+    text-decoration: none;
+    font-weight: 700;
+  }
+
+  .site-name:hover {
+    text-decoration: underline;
+  }
+
+  .header-right {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-md);
+  }
+
+  .about-link {
+    font-size: var(--text-base);
+    color: var(--color-text);
+    text-decoration: none;
+  }
+
+  .about-link:hover {
+    text-decoration: underline;
+  }
+
+  .lang-toggle {
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+  }
+
+  .lang-toggle strong {
+    color: var(--color-text);
+  }
+
+  .lang-link {
+    color: var(--color-muted);
+    text-decoration: none;
+  }
+
+  .lang-link:hover {
+    color: var(--color-text);
+    text-decoration: underline;
+  }
+
+  .lang-sep {
+    color: var(--color-muted);
+  }
+</style>

@@ -1,5 +1,6 @@
 ---
 import BaseLayout from './BaseLayout.astro';
+import TranslationDisclaimer from '../components/TranslationDisclaimer.astro';
 
 interface Props {
   title: string;
@@ -42,6 +43,8 @@ const embedUrl = `https://www.youtube.com/embed/${videoId}`;
         <span class="tag">{tag}</span>
       ))}
     </div>
+
+    {lang === 'en' && <TranslationDisclaimer />}
 
     {videoId && (
       <div class="video-container">

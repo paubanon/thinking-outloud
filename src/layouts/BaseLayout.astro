@@ -1,14 +1,18 @@
 ---
+import Header from '../components/Header.astro';
+import type { Locale } from '../i18n/labels';
+
 interface Props {
   title: string;
   description?: string;
 }
 
 const { title, description = 'Pensando en Voz Alta — Long-form thoughts, unfiltered and unedited.' } = Astro.props;
+const lang = (Astro.currentLocale ?? 'es') as Locale;
 ---
 
 <!doctype html>
-<html lang={Astro.currentLocale ?? 'es'}>
+<html lang={lang}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -25,6 +29,7 @@ const { title, description = 'Pensando en Voz Alta — Long-form thoughts, unfil
     <title>{title}</title>
   </head>
   <body>
+    <Header lang={lang} />
     <div class="container">
       <slot />
     </div>
