@@ -1,10 +1,13 @@
 ---
 interface Props {
   tags: string[];
+  moreTags?: string[];
   allLabel: string;
+  moreLabel?: string;
+  lessLabel?: string;
 }
 
-const { tags, allLabel } = Astro.props;
+const { tags, moreTags = [], allLabel, moreLabel = 'more...', lessLabel = 'less' } = Astro.props;
 ---
 
 <nav class="tag-filter" aria-label="Filter posts by tag">
@@ -18,6 +21,18 @@ const { tags, allLabel } = Astro.props;
       </li>
     ))}
   </ul>
+  {moreTags.length > 0 && (
+    <ul class="tag-list tag-list-more" style="display: none;">
+      {moreTags.map((tag) => (
+        <li>
+          <button class="tag-btn" data-tag={tag}>{tag}</button>
+        </li>
+      ))}
+    </ul>
+  )}
+  {moreTags.length > 0 && (
+    <button class="toggle-more" data-more-label={moreLabel} data-less-label={lessLabel}>{moreLabel}</button>
+  )}
 </nav>
 
 <style>
@@ -32,6 +47,10 @@ const { tags, allLabel } = Astro.props;
     display: flex;
     flex-wrap: wrap;
     gap: var(--spacing-xs);
+  }
+
+  .tag-list-more {
+    margin-top: var(--spacing-xs);
   }
 
   .tag-btn {
@@ -55,18 +74,70 @@ const { tags, allLabel } = Astro.props;
     text-decoration: underline;
     text-underline-offset: 3px;
   }
+
+  .toggle-more {
+    background: none;
+    border: none;
+    padding: var(--spacing-xs) var(--spacing-sm);
+    font-size: var(--text-sm);
+    font-style: italic;
+    color: var(--color-muted);
+    cursor: pointer;
+  }
+
+  .toggle-more:hover {
+    color: var(--color-text);
+  }
 </style>
 
 <script>
   function initTagFilter() {
-    const buttons = document.querySelectorAll<HTMLButtonElement>('.tag-filter .tag-btn');
+    const buttons = document.querySelectorAll<HTMLButtonElement>('.tag-filter .tag-btn:not(.toggle-more)');
     const postCards = document.querySelectorAll<HTMLElement>('.post-card');
+    const toggleBtn = document.querySelector<HTMLButtonElement>('.tag-filter .toggle-more');
+    const moreList = document.querySelector<HTMLElement>('.tag-list-more');
+
+    if (toggleBtn && moreList) {
+      let expanded = false;
+      toggleBtn.addEventListener('click', () => {
+        expanded = !expanded;
+        moreList.style.display = expanded ? 'flex' : 'none';
+        toggleBtn.textContent = expanded
+          ? toggleBtn.dataset.lessLabel || 'less'
+          : toggleBtn.dataset.moreLabel || 'more...';
+      });
+
+      // Also bind tag buttons inside the more list
+      const moreButtons = moreList.querySelectorAll<HTMLButtonElement>('.tag-btn');
+      moreButtons.forEach((btn) => {
+        btn.addEventListener('click', () => {
+          const selectedTag = btn.dataset.tag;
+          buttons.forEach((b) => b.classList.remove('active'));
+          moreButtons.forEach((b) => b.classList.remove('active'));
+          btn.classList.add('active');
+
+          postCards.forEach((card) => {
+            const tagsContainer = card.querySelector('.tags');
+            if (!tagsContainer) {
+              card.style.display = 'none';
+              return;
+            }
+            const tagElements = tagsContainer.querySelectorAll('*');
+            const hasTag = Array.from(tagElements).some(
+              (el) => el.textContent?.trim() === selectedTag
+            );
+            card.style.display = hasTag ? '' : 'none';
+          });
+        });
+      });
+    }
 
     buttons.forEach((btn) => {
       btn.addEventListener('click', () => {
         const selectedTag = btn.dataset.tag;
 
         buttons.forEach((b) => b.classList.remove('active'));
+        if (moreList) moreList.querySelectorAll('.tag-btn').forEach((b) => b.classList.remove('active'));
         btn.classList.add('active');
 
         if (selectedTag === 'all') {

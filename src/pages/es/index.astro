@@ -8,13 +8,17 @@ import { getCollection } from 'astro:content';
 const allPosts = await getCollection('posts', ({ data }) => data.lang === 'es');
 const sortedPosts = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 
-const allTags = [...new Set(sortedPosts.flatMap((p) => p.data.tags))].sort();
+const tagCounts = new Map<string, number>();
+sortedPosts.flatMap((p) => p.data.tags).forEach((t) => tagCounts.set(t, (tagCounts.get(t) || 0) + 1));
+const sortedTags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]).map(([tag]) => tag);
+const topTags = sortedTags.slice(0, 10);
+const moreTags = sortedTags.slice(10);
 ---
 
 <BaseLayout title="Pensando en Voz Alta">
   <main>
     <Search lang="es" placeholder="Buscar..." />
-    {allTags.length > 0 && <TagFilter tags={allTags} allLabel="Todos" />}
+    {topTags.length > 0 && <TagFilter tags={topTags} moreTags={moreTags} allLabel="Todos" moreLabel="más..." lessLabel="menos" />}
     {sortedPosts.length === 0 && <p class="empty">Aún no hay publicaciones.</p>}
     {sortedPosts.map((post) => (
       <PostCard
