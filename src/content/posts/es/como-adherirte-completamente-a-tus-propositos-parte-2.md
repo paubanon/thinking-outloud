@@ -1,0 +1,47 @@
+---
+title: "Cómo adherirte completamente a tus propósitos (Parte 2/2)"
+date: 2020-05-06
+tags: ["hábitos", "compromiso", "cambio", "decisiones"]
+videoUrl: "https://www.youtube.com/watch?v=bMYBEc_WoTQ"
+lang: "es"
+---
+
+Esta es la segunda parte del vídeo anterior. Si has llegado hasta aquí y no lo has visto, te recomiendo encarecidamente que lo veas.
+
+En el vídeo anterior hablé sobre la incapacidad de percibir aquello que dejamos de lado al realizar ciertos comportamientos típicamente adictivos, como son las redes sociales, el azúcar, la pornografía y la masturbación. En este vídeo quiero comentar cómo adherirte a un comportamiento que quieres cambiar, o cómo decidir si ese hábito es para ti y en qué medida.
+
+El error que veo muy habitualmente es que la gente se pone excusas del estilo: ya, pero es que esto te da este beneficio; ya, pero es que esto no es para mí; es que yo nunca podría dejar esto; es que yo creo que esto me sigue aportando. Y el problema es que es una falacia. No tienes perspectiva de cómo te afecta algo si no lo has probado. No puedes saber adónde te va a llevar un camino antes de andarlo.
+
+Y muchas veces nos ponemos estas excusas para no empezar. Ni siquiera empezamos. Porque tenemos la sensación de que tenemos que tomar una decisión antes de tener la experiencia. Nos da la sensación de que tenemos que saber a ciencia cierta si la pornografía nos está afectando o no, si las redes sociales nos hacen más felices o más infelices. Necesito saber si el gluten me afecta antes de quitarme el gluten. Y tenemos la sensación de que si tomo una decisión va a ser para siempre, sin vuelta atrás. Todo esto es mentira. Todo esto es una gran mentira.
+
+Lo que vengo yo aquí a decirte es: no hace falta tener todo ese conocimiento antes de empezar a andar. Pruébalo. Mételo en tu vida. Y mételo seriamente. Coge algo que quieras cambiar e impleméntalo en tu vida al 100%. Si quieres dejarte el azúcar, totalmente fuera. Ayuno absoluto. Quieres dejar de ver YouTube y las redes sociales porque notas que te quitan tiempo, no hagas un punto medio de voy a intentar moderar su uso. Fuera. 100%. Durante un mes. Y luego mira atrás.
+
+Quieres saber cómo afecta la pornografía a tu cerebro. Quítala tres meses. Fuera, completamente. Acepta que lo vas a pasar mal. Acepta que vas a tener deseos. Acepta que va a ser incómodo. Acepta que te vas a subir por las paredes. Acepta que lo vas a echar de menos. Acéptalo. Y comprométete al 100%. Y luego, cuando hayas hecho lo que te has propuesto al 100%, miras atrás. Date la oportunidad de cambiar tu actitud y tu pensamiento.
+
+Ponle objetivos relativamente altos. No tengas miedo. Voy a meditar todos los días diez minutos durante sesenta días. No voy a fallar ni una vez. Pase lo que pase. Y si fallo voy a empezar otra vez. Y una vez que lo haya hecho al 100%, me planteo si quiero seguir meditando o no. Y estoy totalmente en paz con mi decisión. Si en ese momento pienso que no me ha valido la pena, que no me ha aportado, muy bien. Oye, lo he probado. Seriamente. Le he dado una oportunidad. No es para mí. Lo dejo. Punto.
+
+Quítate la pornografía tres meses. Siente el deseo sexual. Aprende a mantenerlo bajo control. Aprende lo que son urgencias por no querer trabajar. Aprende todo eso. Y luego, una vez que has andado ese camino, date la oportunidad de mirar hacia atrás y tomar la decisión. Oye, a mí no me ha valido la pena. Me gustaba más masturbarme. Pues vuelve a ello. ¿Qué pierdes? En el caso de no tener pareja, no tener un orgasmo en tres meses de tu vida. Sí, eso te pierdes. Pero ¿qué aprendes? Aprendes a controlar tu deseo sexual. Aprendes que la masturbación era parte importante de tu vida. Aprendes cómo cambia tu percepción de las otras personas. A lo mejor aprendes que te atraen más las personas del día a día. A lo mejor aprendes a concentrarte mejor. A lo mejor descubres que te estaba afectando más de lo que pensabas. O a lo mejor aprendes que no te estaba afectando nada. Y bueno, has tenido tres meses sin orgasmo. Vale.
+
+Lo mismo lo veo con el gluten. Es que yo no podría dejarme el pan. Dale una oportunidad. 100%. Un mes, dos meses sin pan. Cero absoluto. Y luego date la oportunidad de mirar hacia atrás y decir: voy a probar el pan otra vez. Lo coges, lo pruebas. Ves el efecto que tiene ahora. Ves si te produce molestias intestinales. Ves si has perdido grasa o ganado músculo. Ves tu claridad mental. Y luego te das la posibilidad de decidir.
+
+Esto no es cuestión de tomar una decisión categórica. Se trata de andar el camino. Lo pruebas. Y estás perfectamente en paz para tomar una decisión después. Pero lo que quiero enfatizar es que la decisión se toma después de haber aprendido. Una vez que te has tomado algo en serio y lo has dado todo.
+
+Ejemplo personal. Decidí apuntarme a clases de salsa. Y el día que tocaba ir a apuntarme a la primera clase, había tenido un día cansado, estaba lloviendo. Dije: no me apetece nada. Yo creo que la salsa no es para mí. Me va a dar vergüenza porque bailo mal. Y me dije: todo esto que te estás contando son excusas de mierda porque te da vergüenza. Vas a ir. Te vas a apuntar. Vas a pagarlo. Vas a ir a las diez clases. No te vas a saltar ni una. Y luego, cuando hayas acabado esas diez clases, piensas si te gusta bailar o no.
+
+Y así fue. Resulta que me lo pasé muy bien. Decidí que la salsa no es mi locura, no es mi pasión. Pero es algo que me gusta, que me resulta estimulante. Y es darte una oportunidad. Pero para darte esa oportunidad tienes que comprometerte al 100%. Si hubiese dicho: bueno, voy a probar a medias... Hubiese ido a dos clases y luego me habría empezado a poner excusas y lo habría dejado.
+
+Otro ejemplo personal: los ayunos. Ahora ayuno unas dieciséis horas todos los días, más o menos. Me salto el desayuno y solo como dos veces. Pero hubo una época en la que implementé ayunos de más de veinticuatro horas. Metí unos cuantos ayunos de veinticuatro horas y me fue bastante bien. Luego hubo una temporada en la que se me empezaron a hacer largos. Me di cuenta de que me faltaba un poquito de energía al final del día, que no entrenaba con las mismas ganas, que a partir de las seis, siete de la tarde poco más que me apetecía sentarme en el sofá y mirar al techo, esperando simplemente a que llegara la hora de comer.
+
+Podría haberme dicho: ya, pero es que ayunar veinticuatro horas es así, es inherente a tu persona, es que eso es lo que eres. Como mucha gente hace. Y obsesionarme con que eso es así. En lugar de eso, me di la oportunidad de cambiar de opinión. Me di la oportunidad de decir: he probado esto al 100%, justo como quería. Y he visto el efecto que tiene. No me satisface. Así que lo dejo. Y lo dejé. No pasa nada.
+
+Pero no puedes saber tu punto de vista hasta que has andado el camino. Es cierto que pagas un precio por andarlo. Pero generalmente es un precio bastante pequeño si lo piensas a largo plazo. No comer pan durante un mes es un precio bastante pequeño. No masturbarte durante tres meses es un precio bastante pequeño. ¿Cuál es el posible beneficio? Que te des cuenta de que el pan te afecta más de lo que piensas. Que irrita tu intestino. Que afecta cómo duermes, cómo trabajas, cuánta grasa corporal tienes. Y eso, en caso de que salga bien, es un efecto positivo de por vida.
+
+Estás dejando de lado diez minutos al día para meditar durante sesenta días por la posibilidad de aprender una práctica que va a hacer que duermas mejor, que mejoren tus relaciones personales, que vivas sin estrés, que te ayude a concentrarte más. Estás dejando de lado los orgasmos durante tres meses pero pudiendo ganar una mejor capacidad de concentración, ser más atractivo, aumentar tu confianza, aprender sobre tus impulsos sexuales. Esos son beneficios potenciales que te acompañan el resto de tu vida. Y en caso de que no salgan bien, estoy seguro de que vas a volver a cualquiera de esas prácticas de forma diferente, habiendo aprendido algo.
+
+Y hay un punto más que quiero enfatizar: comprometerse al 100% es más fácil que comprometerse al 98%. Porque si te comprometes al 100%, solo tienes que tomar la decisión una vez. Cada vez que alguien te ofrece un dulce, simplemente dices: no, gracias. Es automático. No tienes que decidir si sí o si no en el momento porque ya lo has decidido.
+
+Sin embargo, si te comprometes al 98%, cada pequeña interacción tienes que decidir. Pero este dulce... ¿Hoy sí? ¿Hoy no? ¿Cuánto es una excepción? ¿Cuán habitual debe ser? ¿Hace cuánto fue la última vez? ¿Es el cumpleaños de mi hermana excepción suficiente? ¿Es que haya salido a cenar con mi novia excepción suficiente? ¿Es que haya tenido un día duro en el trabajo excepción suficiente? Para comer un dulce, para masturbarme, para lo que sea. Tienes que estar constantemente tomando decisiones. Y eso es agotador y hace que lo abandones.
+
+Por eso hago mucho énfasis en que el compromiso tiene que ser al 100%. Ahora, tampoco puedes esperar tomarte un compromiso al 100% para siempre. Por eso también hago énfasis en ponerte una fecha, un límite. Esto voy a hacerlo así durante sesenta días y luego lo pienso. Porque entonces te puedes permitir comprometerte al 100% sin miedo a perder algo. Después de esa fecha re-evalúo. No antes. Pero hay que andar el camino. Hay que andar el camino antes de tomar una decisión.
+
+Espero que os haya gustado este vídeo. Creo que es un punto muy importante. Si os ha servido, comentad, compartid. Un saludo.

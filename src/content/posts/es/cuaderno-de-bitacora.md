@@ -1,0 +1,29 @@
+---
+title: "Cuaderno de bitácora: tu mejor herramienta contra la frustración"
+date: 2024-11-22
+tags: ["doctorado", "motivación", "productividad", "registro"]
+videoUrl: "https://www.youtube.com/watch?v=0B-avDs8NS8"
+lang: "es"
+---
+
+Hoy os quiero compartir la herramienta más útil que he encontrado para mantenerme motivado, conectado y con una buena salud mental a lo largo del doctorado. Y es esta pequeña libreta roja. O más bien, ¿qué hago con esta pequeña libreta roja?
+
+La llamo un diario de navegante. Un diario de navegante porque para lo que la vas a utilizar es para lo mismo que se utilizaba el diario en los barcos: un registro diario de lo que ha sucedido, de dónde estáis, de dónde vais, de cualquier problema que has encontrado. Esa pequeña tarea diaria, tan trivial como suena, la he encontrado tremendamente poderosa para mantenerme conectado.
+
+El motivo es que nuestro cerebro no almacena ni procesa la información de forma racional. Necesitamos muchas veces datos objetivos claros, donde contrastamos las cosas buenas, las cosas conseguidas y las no conseguidas, para poder darnos cuenta de dónde nos encontramos y hacia dónde vamos de forma objetiva. Este es uno de los principios básicos de la terapia cognitiva conductual. Cuando uno entra en un modo depresivo o negativo, una de las herramientas psicológicas es mirar de forma objetiva tus problemas. Puesto que muchas veces estos problemas no son reales, sino dramatizaciones de los eventos que ocurren.
+
+Por ejemplo, una persona deprimida puede pensar: no tengo amigos, todo está mal, estoy solo en la vida. Un abordaje cognitivo conductual podría decir: ¿es cierto que no tienes amigos? ¿De verdad no tienes a nadie con quien hablar? Vamos a hacer una lista de tus personas más cercanas. Y a lo mejor empiezas a decir: bueno, en realidad tengo a esta persona y a esta otra. En realidad me llevo muy bien con mi primo, y mi familia también está ahí. Y lo que tú percibías como "no tengo amigos" lo tienes que reformular como: en este momento de mi vida, en esta nueva ciudad, en esta situación, me encuentro solo porque no tengo tantas conexiones personales como me gustaría. Y eso cambia totalmente el marco. Uno es un enfoque categórico y derrotista; el otro es acotado, situacional y con el que puedes trabajar.
+
+Cuando uno enfoca un proyecto muy grande, como es una tesis doctoral, esto sucede de forma muy habitual. La frustración de "estoy estancado, esto no avanza, soy un desastre, en el último mes no he conseguido hacer nada". Estas son dramatizaciones de la situación, y es importante ponerlas en el casillero que les toca.
+
+Y para eso sirve el registro. Lo que haces es llegar cada día, antes de empezar a trabajar, y escribir cómo te encuentras hoy, los objetivos que quieres cumplir y dónde estás. Yo lo escribía un poco con ese tono de diario de navegante. "Hoy, 31 de julio de 2024, me encuentro en esta situación. En las últimas dos semanas me he sentido muy quemado y bajo de motivación, creo que es una mezcla del estrés por esto y por esto. Sin embargo, a pesar de estas situaciones, han sido buenas semanas." Y luego al terminar, vuelves y marcas qué has hecho, qué no has podido hacer y por qué.
+
+Esto es clave porque cuando avanzas en un proyecto grande y complejo, el estado natural de las cosas es estar estancado. Cuando estás estancado, vas a pasar mucho más tiempo resolviendo el problema que cuando sabes hacer las cosas. Imagínate que tienes 10 tareas: haces la tarea 1 en media hora, la 2 en media hora, la 3 en una hora, y en la tarea 4 te tiras 4 días porque estás estancado. Si mides tus sensaciones en función del tiempo que pasan unas tareas y otras, la sensación siempre va a ser que estás estancado. "Esta semana me metí peleando con esto y no he hecho nada más." Sin embargo, cuando registras de forma diaria lo que sí que has hecho, te estás reforzando positivamente.
+
+Y cuando estés un poquito de bajón, al final de la semana, cuando veas que la sensación es "estoy estancado, esto no está funcionando", siempre puedes volver a tu cuaderno de bitácora y comprobarlo. Esto me pasó después de Navidad. A eso de marzo dije: no he hecho nada. Estos últimos dos meses he avanzado poquísimo. ¿Es verdad? ¿Es cierto que no has hecho nada? Mira el registro. 1 de enero hiciste esto, esto y esto. Resumen mensual: has reescrito esta sección, has enviado este artículo, has preparado esta presentación. Y a lo mejor te das cuenta de que estabas valorando tu progreso en una sola métrica de una miríada que compone el proyecto.
+
+Esto es similar a tener un diario de entrenamiento. Cuando estás estancado en un ejercicio, es muy difícil identificar si lo estás de verdad si no tienes métricas, porque nuestro cerebro retiene la información de los últimos dos o tres entrenos. A lo mejor los últimos dos han ido para abajo. Pero si miras la tendencia en el último mes, a lo mejor es positiva y el estancamiento es local y no tienes que cambiar nada.
+
+Tener un cuaderno de bitácora es fundamental. Para mí ha sido una herramienta absolutamente revolucionaria en mi bienestar mental y mi motivación. Si tienes un proyecto grande entre manos, que tiene muchos aspectos, no puedo darte mejor recomendación que desglosarlo en piezas lo más pequeñas y precisas posible, determinar de forma diaria a qué apuntas ese día, y marcar con fecha y con notas.
+
+Esto cada uno encuentra su forma. Se puede hacer en el ordenador, en Excel, en apps de tareas. A mí personalmente me gusta mucho la sensación de escribir en papel. Me centra, me pone en un estado de baja excitación pero concentrado, y la sensación del papel me da mejores resultados que cualquier aplicación de tareas. Lo importante es que sea cuantificable, que sea completo y que puedas recurrir a él en el futuro para revisar si de verdad estás estancado, si tienes que estar frustrado, o si simplemente no estabas mirando con suficiente detalle.

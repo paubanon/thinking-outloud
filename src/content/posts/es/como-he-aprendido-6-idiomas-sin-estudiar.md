@@ -1,0 +1,45 @@
+---
+title: "Cómo he aprendido 6 idiomas sin estudiar"
+date: 2021-01-20
+tags: ["idiomas", "aprendizaje", "lenguaje", "educación"]
+videoUrl: "https://www.youtube.com/watch?v=PeQYfLA_Im0"
+lang: "es"
+---
+
+Buenos días a todos. Hoy os quiero hablar de un tema que nunca pensé que iba a tratar en un vídeo, y es sobre los idiomas. Porque nunca me han gustado los idiomas, no voy a mentir. Sin embargo, a pesar de no gustarme los idiomas, estoy aprendiendo ahora mi quinto idioma, o mi séptimo, dependiendo de cómo lo veas. Y a eso me referiré luego.
+
+Nunca me ha gustado la forma en la que se enseñan los idiomas. Siempre he tenido la sensación de que es una forma completamente ineficiente y no coherente con cómo funciona el cerebro. Memorizas vocabulario, memorizas tablas, memorizas el uso de los tiempos verbales... bastante antinatural, sinceramente. Porque yo me veía a mí mismo y decía: pero es que yo así no es como gestiono un idioma. Un idioma que ya conozco no tengo que racionalizarlo. No pienso en "ah, voy a conjugar esto porque es una acción pasada que se interrumpe con otra, entonces utiliza este tiempo verbal." No, el tiempo verbal sale y fluye. Y entonces nunca me ha cuadrado la forma habitual de aprender idiomas.
+
+A raíz de esto, por cómo se han devenido los actos en mi vida, he acabado aprendiendo bastantes idiomas. Pueden contarse hasta siete, digámoslo así. Entre cuatro y siete. Y ahora entenderéis el porqué. Y me he dado cuenta de que ninguno de estos idiomas lo he aprendido con las técnicas habituales. Y a raíz de esto se me ha hecho mucho más ameno y los he aprendido mucho más rápido.
+
+Lo primero que me gustaría deciros es que no soy ningún experto ni en neurociencia del lenguaje ni en lingüística. Si queréis podéis tirar este vídeo a la basura. Pero he pasado un tiempo razonable pensando en cómo se aprende un lenguaje, por qué se aprende y cuál es la forma óptima de aprenderlo.
+
+Lo que creo que le falta al approach tradicional es que el desglosar en partes lógicas un lenguaje no hace que la mejor forma de aprenderlo sea aprender cada elemento individualmente y luego ponerlos juntos de forma racional. Porque el lenguaje, cerebralmente, no se produce a través de la parte racional del cerebro. Es algo más automático. Es como un reflejo motor. No estás pensando "ah, es que esto es este tiempo, entonces tiene esta declinación." No es que lo estés pensando tan rápido que no te des cuenta. Es que no lo estás pensando.
+
+He dicho que hablo entre 4 y 7 idiomas porque he contado entre ellos la matemática y lenguajes de programación. En total serían español, catalán, inglés, italiano, y estoy aprendiendo ahora alemán, matemáticas y lenguajes de programación. He decidido incluir matemáticas y lenguajes de programación juntos porque son lo suficientemente similares como para considerarlos en conjunto. Tienen su propio vocabulario, tienen unas reglas sintácticas, están diseñados para comunicar una información. Si no lo has estudiado, no lo entiendes. Y es independiente de la lengua en la que hables.
+
+Contadlo como queráis. A mí me da exactamente igual el número de idiomas que hable. No soy de esos que van por ahí diciendo "pues ¿sabes qué? hablo siete idiomas." No. Me da exactamente igual. Es por hacer un título con un poquito de clickbait. Contadlo como cinco, como cuatro o como siete. No me importa.
+
+Lo primero: ¿por qué los métodos tradicionales fallan? A medida que estudiaba inglés en el instituto veía que no me gustaba. Me causaba rechazo. Y nunca aprendí bien el inglés hasta que mandé a tomar por saco los métodos tradicionales. Eso no quiere decir que no sirvan para nada, tienen su lugar, es útil poder desglosar el idioma en sus elementos. Pero no es como yo abordo el aprendizaje de un idioma.
+
+Lo que necesitas antes de todo para aprender un idioma es interés. No vas a aprender un idioma a la fuerza o va a ser muy horrible, muy aburrido, va a requerir increíbles dosis de concentración y fuerza de voluntad. Y con interés no me refiero solo a "quiero aprender el idioma." Es un interés genuino. No un "ah, sí, estaría bien tener alemán en el currículum." ¿Estás dispuesto a echarle todas las horas? ¿Y van a ser interesantes esas horas?
+
+La clave absoluta en mi método es que el idioma no es un fin en sí mismo. El idioma es un medio a través del cual consigues otra cosa. ¿Qué te importa? Si lo haces así, tu cerebro dirá: no nos queda otra que aprender el idioma de la forma más natural posible porque el fin último nos importa.
+
+Por ejemplo, cuando yo aprendí inglés, lo aprendí por dos motivos: las cartas Magic y la nutrición y el entrenamiento. En ambos casos mi objetivo no era aprender inglés, cero. Era que aquella información que necesitaba obtener solo estaba en inglés. Y con el italiano: me regalaron un libro que me interesaba, y dije, bueno, ya que lo tengo y se parece bastante, ahora me apetece aprender italiano. Pero lo voy a hacer a través del libro porque quiero leer ese libro. El libro me importaba; el italiano ha sido una consecuencia.
+
+La mejor herramienta que he descubierto para aprender un idioma es leer. Tener acceso a textos que puedas leer con una comprensión de un 60-80%. Es más fácil si aprendes idiomas cercanos a alguno que ya conozcas. Si vienes del español va a ser muy fácil aprender francés, italiano, portugués, catalán. Va a ser mucho más difícil aprender alemán. Sin embargo, si sabes inglés, aprender alemán es mucho más fácil porque son lenguajes similares.
+
+La idea es coger el texto original e intentar leerlo. A saco. Y ese "no he pillado una mierda" no es lo que tu cerebro hace si no te importa. Si no te importa, se lo salta. Pero si la información que hay detrás te importa, te esfuerzas por descifrarlo. Lo vas decodificando, literalmente. Es muy útil, aparte de decodificar, tener una traducción cercana para comparar cuando te atascas mucho. Y cuando lo entiendes, no simplemente sigues adelante: te fijas en la similitud de la estructura de las frases, en las similitudes y diferencias.
+
+Si os dais cuenta, esta forma de aprender no implica memorizar palabras ni aprender estructuras gramaticales a la fuerza. Implica exponerte mucho y dejar que tu cerebro memorice lo que tenga que memorizar y olvide lo que tenga que olvidar. La repetición espaciada, que es una muy buena forma de memorizar, es lo que sucede de forma natural si te expones mucho al lenguaje.
+
+Tienes que tener el lenguaje a mano, todos los días. Yo con el libro italiano, no era solo el libro de aprender italiano, era el libro de... todos los días cojo este libro porque me estoy leyendo este libro. Una vez que sabes leer, empiezas a identificar el vocabulario, empiezas a aprender las diferentes palabras, y entonces tu cerebro empieza ya a ser capaz de escuchar. Porque leer lo puedes hacer muy despacio; escuchar no lo puedes hacer tan despacio. Una vez que ya tienes algo de control en la lectura, puedes empezar a escuchar. Y una vez que pillas el escuchar, el repetir hablando es bastante fácil.
+
+A la par que lees, es muy interesante salpicar de vez en cuando con un poquito de gramática o un poquito de vocabulario. No un "lo memorizo a saco," sino un te lo miras, lo copias una vez, prestas atención. Aprendes a lo mejor uno o dos tiempos verbales, generalmente un presente, un futuro, un pasado y un condicional. Con esos cuatro puedes gestionar algo patatero, pero ya tienes la estructura temporal para hablar.
+
+Ahora estoy aprendiendo alemán con un curso que se llama Smarter German. Este señor, después de 20 y pico años enseñando alemán, se sentó a decir: vamos a ver, ¿cuál es la mejor forma de aprender un idioma? Y en base a esta premisa ha desarrollado el curso. Te tira un texto a la cara, no pillas nada, y entonces él te explica muy poco a poco y en paralelismo con el inglés. Mira, esta palabra, ¿ves? Si cambias la T por una D se parece a esto. Y así. Y te lo desglosa muy, muy poquito a poco. Y a medida que vas avanzando, va soltando las reglillas gramaticales aquí y allá, para que tu cerebro, una vez que tiene unos cuantos ejemplos, los conecte con una regla y diga: ah, claro, la regla es esta.
+
+Con el italiano he tardado cuatro meses en mantener una conversación perfectamente, y ahora que llevo unos seis puedo pasarme el día entero hablando en italiano. El italiano tiene la ventaja de que es muy similar al español, entonces cuando no te sabes una palabra, haces así y metes una variante en español montada con un esparadrapo y suele funcionar.
+
+Lo importante es mantener la exposición constante. Y una vez que llegas a cierto nivel, que es romper la barrera de la comprensión y poder leer un poquito y poder hablar básicamente, ya es dejar que tu cerebro haga lo que tenga que hacer. Y cuando se te atasca algo y tienes alguna duda, lo buscas. Pero sobre todo, sobre todo, lo que quiero que os llevéis de este vídeo es la importancia del interés. Para mí no tiene ningún valor aprender idiomas por aprender idiomas. Pero si te importa un idioma, si de verdad te importa emocionalmente, es cuando tu cerebro va a sentir que vale la pena invertir esa energía y por tanto lo va a aprender así de rápido.

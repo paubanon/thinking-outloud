@@ -1,0 +1,42 @@
+---
+interface Props {
+  lang: string;
+}
+
+const { lang } = Astro.props;
+
+const aboutHref = lang === 'es' ? '/es/sobre' : '/en/about';
+
+const text = lang === 'es'
+  ? 'Transcripción editada del vídeo original.'
+  : 'Edited transcription from the original video.';
+
+const linkText = lang === 'es' ? 'Más info' : 'More info';
+---
+
+<aside class="transcription-disclaimer">
+  <p>{text} <a href={aboutHref}>{linkText}</a></p>
+</aside>
+
+<style>
+  .transcription-disclaimer {
+    margin-bottom: var(--spacing-md);
+  }
+
+  .transcription-disclaimer p {
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+    margin: 0;
+    line-height: 1.4;
+    font-style: italic;
+  }
+
+  .transcription-disclaimer a {
+    color: var(--color-muted);
+    text-decoration: underline;
+  }
+
+  .transcription-disclaimer a:hover {
+    color: var(--color-text);
+  }
+</style>

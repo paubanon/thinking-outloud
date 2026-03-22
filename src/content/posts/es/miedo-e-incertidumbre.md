@@ -1,0 +1,15 @@
+---
+title: "Miedo e incertidumbre"
+date: 2018-02-05
+tags: ["miedo", "incertidumbre", "responsabilidad", "estoicismo"]
+videoUrl: "https://www.youtube.com/watch?v=mfVqdKtnu3A"
+lang: "es"
+---
+
+Estaba viendo un vídeo sobre el miedo. La idea del vídeo era cambiar la concepción que tenemos de él: algo que tenemos que evitar, algo de lo que echamos para atrás, algo que intentamos mantener a raya. El vídeo reflexionaba sobre los diferentes tipos de miedo, la necesidad de ellos, de cómo el miedo es algo que te mantiene vivo, que te hace reaccionar con agilidad, como un mecanismo de alerta. Y hablaba de la necesidad de asumir que el miedo es una parte de la vida y que no hay que huir de él. Entenderlo, comprenderlo como parte de la vida, asumirlo. Y eso te hará llegar donde quieres llegar, porque no estás paralizado por él. En cualquier aspecto, ya sea personal, académico, laboral.
+
+Esto es algo a lo que le llevo dando vueltas mucho tiempo. Y resulta interesante que cuando escuchas a gente hablar de diferentes temas, cuando has leído bastante y has escuchado bastante a personas de cierta profundidad, empiezas a ver relaciones entre lo que dice uno y lo que dice el otro. Empiezas a ver que hay ciertos conceptos que son constantes en diferentes filosofías, incluso en filosofías que en un principio parecen inconexas. Como si fuera una verdad que simplemente está reformulada con diferentes palabras. La misma idea expresada de diferentes formas.
+
+En este caso, la idea del miedo se puede reformular, por ejemplo, con las palabras de Jordan Peterson: toma responsabilidad de tu vida, mantente erguido con los hombros hacia atrás, no tengas miedo de decir lo que piensas, no tengas miedo de actuar, coge las riendas. O en Taleb: acepta que el mundo es caótico, que no se puede predecir todo, que más vale aceptarlo y lidiar con él. Porque si intentas predecir absolutamente todo para eliminar el miedo, para eliminar la incertidumbre —que es la formulación más precisa de lo que tememos; lo que tememos es lo desconocido, el caos— te vas a llevar un chasco. No se puede. El mundo es demasiado complejo, con demasiados factores, y encima tú mismo evolucionas de forma impredecible a lo largo de tu vida. Si te esfuerzas en construir una persona interesante, ahora mismo ni siquiera sabes lo que querrás dentro de un año, ni lo que te gustará. Puede que seas una persona completamente diferente y no lo sabes. Eres incapaz de ponerte en el papel de esa persona porque esa persona no existe todavía.
+
+No puedes predecir cosas, tanto por la aleatoriedad del mundo externo como por la imposibilidad de entenderte a ti mismo en el futuro. ¿Qué queda entonces? Solo queda ser responsable de tu vida, coger las riendas, luchar por llegar donde crees que puedes llegar, aceptar que el mundo es incierto, que eso va de la mano del miedo, y aprender a lidiar con ello. Vivir día a día con ello. Aprender a improvisar, como he dicho en otros vídeos. Aprender a lidiar con lo que aparezca. Saberte capaz de gestionarlo, sea lo que sea. Esa es una buena mentalidad: no importa la situación, sé que soy capaz de gestionarlo.

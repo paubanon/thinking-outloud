@@ -1,0 +1,33 @@
+---
+title: "El arte de afilar espadas"
+date: 2022-06-21
+tags: ["pensamiento crítico", "argumentación", "debate", "filosofía"]
+videoUrl: "https://www.youtube.com/watch?v=pkHD5FXM7MY"
+lang: "es"
+---
+
+El arte de afilar espadas es un arte que muy poca gente practica y que creo que debería realizarse más. Porque afilar espadas te permite conocer tus armas mejor y te permite defenderte y combatir cuando es necesario. Quizás muchos estéis un poco confundidos con el título, pero quizás no lo estéis tanto cuando hablemos de qué es una espada.
+
+Una espada es tu herramienta ante el combate. No es un arma hecha para hacer daño, es una herramienta que tienes que aprender a utilizar. Todos tenemos espadas, pero la mayoría de la gente utiliza palos. Palos romos, palos frágiles, espadas melladas.
+
+Empezó un poco a raíz de un curso de escritura científica que hice hace poco en la universidad, donde comentábamos el aspecto crítico y el debate abierto. Se hablaba de cómo cierto profesor, en un curso sobre pensamiento crítico, cada año invitaba a grupos antivacunas a participar en su clase y debatir con los alumnos que con mucha convicción los desdeñaban como locos que no tienen nada que decir. Y repetidamente, todos los años, cuando los grupos antivacunas combatían con los pro vacunas, ganaban el argumento. Y ganaban porque tenían las espadas más afiladas. A base de tener que exponerse regularmente al combate, habían tenido la necesidad de refinar y perfeccionar una y otra vez sus argumentos. Hasta el punto en el cual, a pesar de no tener razón, eran capaces de ganar el combate. Sin embargo, una mente convencida por propio ego de estar en posesión de la verdad y sin necesidad de enfrentarse al combate, desarrolla herramientas débiles. Espadas romas, oxidadas, que cuando llega el momento son ineficaces.
+
+Y cuando llega el momento de pelear, no puedes afilar tu espada. Porque afilar tu espada requiere tiempo, cariño, espacio, reflexión, atención.
+
+Todos nosotros tenemos convicciones sobre diferentes temas. Sin embargo, pocas veces nos paramos a pensar en qué se basan estas convicciones. ¿Por qué pienso así? ¿Qué pasa si alguien ataca mis convicciones? ¿Cómo puedo defenderme? La mayoría de la gente no se para a pensar cuáles son sus argumentos para apoyar una posición. Ni siquiera muchas veces se paran a pensar cuál es su posición. Simplemente es algo que acontece.
+
+Creo que esto es una muy mala forma de avanzar en el mundo. Porque no te estás parando a pensar críticamente: ¿qué pienso sobre este tema? ¿Son lógicos mis argumentos? ¿Son argumentos basados en impulsos emocionales? Que puede ser. Y en ese caso, pararte a reflexionar sobre ellos, observar tu espada, observar la hoja, la guarda, hace que a lo mejor cambies de opinión sobre un tema. Pero muchas otras veces lo que haces es reforzar y elaborar con mayor detalle por qué piensas así. Y en ese caso serás más eficaz a la hora de combatir.
+
+¿Cómo afilar tu espada? Lo primero es encontrar un problema. Algo que te irrita, o sobre lo que no tienes una posición clara y quieres desarrollarla. O un tema que se presenta de forma recurrente en tu día a día. Puede ser político, puede ser personal, puede ser de cualquier tipo. Algo ante lo que te has encontrado carente de herramientas para defender bien tu posición. Has sentido que sí, más o menos esto, pero en el fondo sabes que no has refinado tu argumento.
+
+Entonces identificas cuál es tu espada: cuál es tu posición, cuáles son tus herramientas, sus puntos fuertes y sus puntos débiles. Esto es una perspectiva crítica muy importante: pensar sobre lo que piensas sobre los temas, como si fuese en tercera persona. No solo aceptes una posición. Piensa qué pienso sobre este tema y por qué pienso así. Hay veces que este ejercicio puede llevarte a desechar tu posición sobre un tema. En ese caso tienes que buscar otra más sólida. Si amartillas fuertemente esa posición y eres capaz de romperla consistentemente y no reforjarla, a lo mejor tienes que abandonarla y adecuarte a otra más antifrágil, más robusta, capaz de soportar los embates del martillo. Y a pesar de que no sea placentero decir "no me queda otra que aceptar que esto es así mejor que asado," eso es una actitud crítica.
+
+Una vez que tienes una pieza de hierro, algo que forjar, quieres saber si eres lo suficientemente articulado en esta posición. ¿Eres capaz de argumentarla de forma robusta? ¿Sin falacias, sin atacar personalmente, sin crear hombres de paja? Puedes hacerlo primero de forma introspectiva: si yo tuviese que atacar esta posición, ¿cómo la defenderías? Y luego hazlo con los demás. Prueba a debatir. Saca el tema en conversaciones con gente que tenga posiciones opuestas. Algo que pueda suscitar un ligero debate amigable. Eso es práctica de combate. No quieres embarcarte directamente en el combate con alguien que tiene mucha experiencia. Quieres tantear, ver qué contraargumentos te ponen, identificar tus puntos débiles. Y cuando los tengas claros, cuando salgas de un debate diciendo "esto no lo he sabido articular bien, tengo que pensar sobre ello," cuando vuelvas a casa, coge un libro, busca información, argumenta, repite.
+
+Itera este proceso regularmente. Puedes leer, escuchar, hablar, pensar, escribir. Todas ellas son herramientas para afilar tu espada.
+
+Una vez que tienes una espada afilada —y a veces afilarla requiere años de trabajo— quieres saber cuándo utilizarla. No quieres ser alguien que entra en el combate blandiendo la espada como un loco. Porque te vas a cortar. Y te van a cortar. La espada tiene un fin y se puede utilizar de muchas formas. Voy a robar una metáfora de Patrick Rothfuss: Kvothe, el protagonista, habla con su maestra de espada y le dice que si utiliza la espada para cortar un palo de madera o para mantener la ventana abierta, ¿no es eso un uso impropio? Y la maestra se ríe y dice: la espada es una herramienta. ¿Cuán terrible sería tener una espada que solo utilizara para matar personas?
+
+Cuando la utilices, quieres utilizarla con humildad, elegancia y precisión. Quieres saber exactamente dónde cortar, cómo cortar y la profundidad. Para maximizar el efecto que quieres hacer. Y eso significa a veces no ir todo lo fuerte que puedes ir. Para crear una mayor apertura en tu oponente y poder cortar más profundo más adelante en el discurso.
+
+Como digo, tener una espada y no saber utilizarla es estúpido. Entonces, al igual que aprender a afilarla, tienes que aprender a utilizarla. Y esto únicamente viene de la mano de humildad, de honestidad en el debate, de no querer simplemente ganar, sino hacer un buen combate. Hay veces que tienes que aceptar que has perdido. Y quieres ser un buen samurai. Quieres saber tener un combate honesto y ganar honestamente.

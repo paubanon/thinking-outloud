@@ -1,0 +1,59 @@
+---
+title: "Modela tu mente"
+date: 2019-07-19
+tags: ["concentración", "cerebro", "deep work", "sueño"]
+videoUrl: "https://www.youtube.com/watch?v=S9z-YU5T-FM"
+lang: "es"
+---
+
+Buenos días, bricomaniacos. Hace tiempo que no he grabado un vídeo sin que siquiera haya dicho que ya va siendo. Así que aquí estamos, estrenando mi nueva cámara a ver qué os parece. Espero que la calidad suba un poquito, aunque os aviso que no voy a grabar todos los vídeos con esto porque me resulta un poquito más trabajoso. Muchas veces grabo on the go, con el teléfono móvil. Pero de vez en cuando intentaré grabarlo con esto porque me gusta mucho el efecto de la profundidad de campo limitada.
+
+El tema de hoy es la concentración y la capacidad de control en diferentes ámbitos. Hace un tiempo hice un vídeo cuyo título era ¿Por qué estás ahí sentado? Era una reflexión sobre un post-it que me puse en el ordenador que dice exactamente eso. Un recordatorio constante para decirme: ¿estás haciendo lo que quieres o estás moneando? Y si estás moneando, ¿estás moneando porque quieres? ¿O estás moneando porque estás perdiendo tiempo en una espiral de internet? Esto es una disertación un poquito más elaborada al respecto.
+
+Ha salido a raíz de leer el libro Why We Sleep, de Matthew Walker, que habla sobre cómo el sueño afecta a la capacidad de concentración y a los diferentes circuitos cerebrales. El resumen que os puedo dar es que si intentas mejorar cualquier aspecto de tu vida, prioriza el sueño, número uno. Si quieres perder peso, si quieres ganar masa muscular, si quieres reducir la posibilidad de accidentes laborales, si quieres tener mejor control sobre tus emociones, reducir la depresión, reducir la posibilidad de tener infartos, reducir la posibilidad de tener Alzheimer. Todo, absolutamente todo.
+
+Una de las cosas que mencionaba en el capítulo sobre metabolismo y sueño es que el sueño regula la relación entre los impulsos primarios del cerebro, que tienen su origen en la amígdala y que te dicen come dulce, folla, come mucho, folla más... y el córtex prefrontal, que es el circuito de más alto nivel. El que le dice a esos impulsos: a lo mejor no es lo que queremos a largo plazo, vamos a pensarlo mejor, vamos a tener proyección de futuro, vamos a tener autocontrol y fuerza de voluntad. Eso lo regula el sueño. Si tienes déficit de sueño, los circuitos de alto nivel no son capaces de regular los impulsos y tienes más ganas de hacer cosas básicas a nivel biológico.
+
+Y es un modo interesante de pensar sobre el sueño y la concentración, porque cuando estás a punto de empezar a trabajar pero dices: mmm, voy a abrir una pestaña, a lo mejor tengo que chequear esto antes, voy a ver las notificaciones de Facebook... eso es el cerebro primario ganándole al de alto nivel.
+
+Este año he estado trabajando bastante en el Deep Work. Y ahora mismo me encuentro en un nivel en el que me considero que trabajo muy bien. Estoy muy contento con mi forma de trabajar, con la cantidad de deep work que hago, con qué porción de mi tiempo es tiempo útil. Desde que me quité Instagram y me estoy tomando muy en serio la diligencia en mi vida, el tomar toda la responsabilidad que puedo, lo cierto es que estoy trabajando un montón, pero lo estoy haciendo a gusto. Y el resultado es que mi vida va a toda vela.
+
+Una de las cosas en las que estoy trabajando más es evitar las distracciones estúpidas. Abrir Facebook, abrir Instagram, empezar a saltar de página en página. A lo mejor algún día me gustaría cambiarme la mochila. Voy a ver modelos. Voy a compararlos. Voy a ver reviews. Tu, tu, tu, tu. Adiós una tarde entera. Lo mismo pasa con comprar portátiles, con cualquier cosa. Siempre tenemos páginas web, en mi caso Instagram en la mayoría de los casos de la gente, donde simplemente dices: voy a ver un poquito más, un poquito más. Y de repente has perdido una hora de tiempo.
+
+Una hora de tiempo es mucho tiempo. Piénsalo. Si meditas, te das cuenta de cuánto tiempo es una hora. Sentarte diez minutos a meditar y estar prestando atención a tu entorno ya es mucho. Cuántas cosas pasan en diez minutos, cuántos sonidos, cuántos cambios. Puedes hacer muchas cosas en diez minutos si estás realmente concentrado. Pues imagínate perder una hora.
+
+Como he estado trabajando mucho en esto, junto con el post-it del ¿por qué estás aquí sentado?, estoy por fin llegando al punto en el cual cuando estoy sentado en el ordenador, estoy trabajando. Y no es solo cuestión de gusto: mi cerebro funciona mejor en papel, estructura mejor la información, la conecta mejor. Puedo hacer multi-monitor de libros, saltando de uno a otro. Cuando lo hago con el ordenador es muy fácil decir: bueno, voy a echar una ojeadita a Facebook.
+
+Últimamente me salta la alarma cuando incluso en tiempo libre voy a abrir una pestaña nueva. El ejemplo de la mochila: estoy mirando mochilas y acabo de mirar mochilas. Tengo que irme a entrenar. Y digo: bueno, una ojeadita a Facebook y me voy a entrenar. Pero ahora pasa algo en mi cabeza. Click. ¿Es esto lo que quieres? Me paro y me pregunto: ¿de verdad quieres ver si hay algún vídeo nuevo en YouTube? Y me digo: no. No lo voy a ver ahora. Me tengo que ir a entrenar. Es ansia pura de novedad. Y entonces: no. No es el momento. No lo abras.
+
+Lo mismo con Facebook. ¿De verdad quieres ver Facebook? Y la respuesta es no. Y cuando estoy estudiando, igual. Estoy estudiando y de repente surge un click. Y mi cerebro hace: ¿es esto lo que quieres hacer de verdad? La clave es que he educado a mi cerebro para que me haga esa pregunta. Y la respuesta es no. Y entonces digo: pues ahora no toca. Siéntate. Te apetezca o no. Haz lo que tienes que hacer. No hagas lo que quieres hacer. Haz lo que tienes que hacer.
+
+Lo mismo para la masturbación. Muchos os sentiréis identificados. De repente: ¿por qué tengo eso abierto? Y en ese momento: ¿es esto lo que quiero hacer ahora? ¿Quiero pararme y masturbarme? Y la respuesta seguramente sea no. Tengo que estudiar. Ahora no toca. Y lo que hará mucha gente es: bueno, ya que estoy, me lanzo a casco rápido y ya nos ponemos. Ese es el problema. No estás educando a tu cerebro.
+
+Lo que quería transmitiros con este vídeo es que al cerebro se le educa. El cerebro no es fijo, se le educa. Tú eres responsable de las conexiones neuronales que hay en tu cerebro. Eres responsable de qué cerebro estás construyendo a cada momento, con cada decisión que tomas. Y cada decisión que decides no tomar también te está educando.
+
+Si estás todo el día con las redes sociales, saltando de una cosa a otra, sin meditar, satisfaciendo impulsos primarios, y encima tienes falta de sueño, estás educando a tu cerebro para ser un cerebro distraído. Y el día que le digas: vamos a sentarnos a leer y estudiar y a trabajar y a construir un futuro, tu cerebro no va a saber funcionar en ese modo. Es como un niño pequeño. Está de rabieta siempre. Y tú le has estado dando coba. Entonces le dices: siéntate a hacer teoría cuántica de campos. Y el niño pequeño dice: sube aquí, verás.
+
+Es muy importante entender que todas nuestras acciones definen cómo se está construyendo nuestro cerebro. Y es por esto que la meditación se llama práctica. No es llegar a un objetivo, es práctica. Y cuando entiendes así el Deep Work, cuando entiendes que no es cuestión de hacerlo o no hacerlo, sino de practicar, te cambia el chip. De repente el Deep Work no es algo en lo que puedas fallar. La única forma de fallar es no intentarlo.
+
+Si tú intentas tener trabajo concentrado, te sientas y tu objetivo es tener tres horas productivas y sacas una, pero eres consciente de ello y dices: esto no es lo que quiero, eso está bien. Es un check positivo. Y al día siguiente lo intentas otra vez y tienes una hora y media. Porque cuando has ido a abrir la décimoquinta pestaña y has dicho: para, ¿es esto lo que he venido a hacer? No. Y la has cerrado. Ese momento es la clave. La práctica es el decir: ahora no. Es tomar control de tu cerebro primario y decirle: ahora no. Y cuanto más lo hagas, más fuertes serán las conexiones entre el córtex prefrontal y la amígdala.
+
+Si alguien sabe más de cerebro que yo y estoy diciendo burradas, que me corrija. Pero básicamente estás fortaleciendo las conexiones entre tu cerebro de alto nivel y el primario. Tu cerebro de alto nivel dice: me gustaría ganar un buen sueldo con un trabajo que me guste. Bien. Eso no va a salir de la nada. Hay que trabajar duro todos los días para conseguirlo. Eso es pensamiento de alto nivel. Tu cerebro primario dice: sí, nos gusta la idea, pero vamos a ver Instagram. Porque no sabe hacer esas conexiones a largo plazo.
+
+Lo que tienes que entender es que la capacidad de anular tus estímulos primarios y trabajar en aquellos objetivos que le dan sentido a tu vida no aparece de la nada. Es trabajo. Yo llevo cinco o seis años trabajando día tras día para que mi cerebro sea lo más productivo y concentrado posible. Y ahora estoy empezando a estar orgulloso del cerebro que tengo.
+
+Y eso ha implicado poner límites a las redes sociales, borrar algunas, forzarme a tener deep work, forzarme a tener el teléfono en una mesa diferente a la que trabajo para no contestar al WhatsApp, no tener notificaciones. Cuando estoy sentado, estoy trabajando. No quiero escuchar una vibración, no quiero nada. Quiero que mi cerebro se acostumbre a centrarse.
+
+Implica ponerme post-its. Y cada vez que miro el marco de la pantalla y veo el post-it: ¿por qué estás aquí sentado? Y digo: porque estoy perdiendo el tiempo mirando una web de teléfonos móviles. ¿Qué quiero hacer? Quiero irme a entrenar. Pues cierro la web y me voy. Y eso día tras día.
+
+Porque estoy forzándome a meditar todos los días. Si meditas, aprendes a hacer estas cosas. Especialmente la práctica de centrarse en un ancla, que es generalmente la respiración. Porque aprendes a identificar cada vez que tu mente está vagando y dices: no, volvemos a la respiración. A veces en diez minutos de meditación solo treinta segundos son realmente concentrados en la respiración. Pero con el tiempo sacas cinco minutos. Y si habéis practicado mantener treinta segundos la atención en algo sin que se vaya, sabéis que es muy difícil.
+
+Eso te da pie a practicar la decisión consciente. Cada vez que tomas una decisión: un pasito atrás. ¿Es esto lo que quiero? Sí. Vamos para allá. Y de repente tienes la mano en los pantalones. ¿Es esto lo que quiero? No. Pues vamos a hacer otra cosa. Educarlo. Una y otra y otra vez. Y lo que decía anteriormente: no se puede fallar. No intentar es fallar. Intentar es ganar. El camino es el destino.
+
+Y cuando llevas ya mucho tiempo, muchos años, en los que has construido un cerebro que se alinea con tus objetivos... piensa en tu cerebro como un bloque de plastilina muy duro. ¿Qué cerebro me gustaría tener? Seguramente uno que sea capaz de coger un artículo científico, sentarse tres horas, pillarlo todo, acabar y decir: lo tengo, lo he entendido, no he estado pensando en el móvil, no he estado pensando en nada. Un cerebro que cuando esté con una persona no esté pensando en los pajaritos, sino que esté presente. Seguramente ese es el cerebro que querrás, sobre todo si ves este canal.
+
+No quieres un cerebro que cada vez que lee un párrafo se olvide de lo que estaba haciendo y piense en abrir Instagram. No quieres un cerebro que saque el móvil y de repente esté Instagram abierto, aunque en realidad solo querías chequear el tiempo.
+
+Entonces, como el cerebro es un bloque de plastilina muy duro, todos los días tienes que moldearlo. Cada acción tienes que intentar moldearla hacia la dirección del cerebro que quieres construir. Y eventualmente lo conseguirás. Con mucha práctica.
+
+Esto es lo que os quería decir hoy. Que el cerebro es moldeable y que está en tu mano decidir hacia dónde lo quieres moldear. Al igual que cualquier otro aspecto de tu vida.

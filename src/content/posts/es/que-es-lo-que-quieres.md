@@ -1,0 +1,37 @@
+---
+title: "¿Qué es lo que quieres?"
+date: 2022-11-01
+tags: ["objetivos", "propósito", "motivación", "mejora personal"]
+videoUrl: "https://www.youtube.com/watch?v=yuuCTeNdbwE"
+lang: "es"
+---
+
+¿Qué es lo que quieres? Llevaba tiempo sin subir nada a este canal y voy a inaugurar la vuelta al otoño y a los pensamientos filosóficos con este tema. La importancia de los objetivos y de establecerlos.
+
+Creo que uno de los motivos por los que tenemos un altísimo ratio de éxito en los programas de Enso Movers es porque lo primero que hacemos es establecer objetivos. Antes de nada le preguntamos a la gente: ¿qué quieres? ¿Qué es lo que te gustaría hacer? Y establecemos unos objetivos y en base a ellos elaboramos un plan considerando tu situación actual. Puede parecer súper obvio. A cualquier persona razonable a la que le preguntes dirá: bueno, claro, por supuesto que hay que poner objetivos. Pero mi experiencia me dice que la gente no es buena poniéndose objetivos. La gente no piensa en tener objetivos. La gente posterga ponerse objetivos todo lo posible.
+
+Y no solo en el entrenamiento. El entrenamiento creo que es una herramienta especialmente útil para cambiar tu mentalidad respecto a la vida porque es tangible. El esfuerzo es directo. Aquí y ahora me esfuerzo y la recompensa es directa: mañana levanto más kilos. Es straightforward, claro y medible. Sin embargo, en otros aspectos de la vida es más complicado. ¿Cuánto he mejorado mis habilidades sociales? ¿Cuán atractivo soy respecto al año pasado? ¿Cuánto he mejorado mis perspectivas laborales? Es difícil de cuantificar y el esfuerzo se diluye. Y todo esto, la falta de cuantificación, la falta de adherencia a los propósitos, todo viene de una falta de objetivos.
+
+Porque si tienes objetivos puedes hacer un mapa. Y he hablado muchas veces en este canal de la importancia de tener un objetivo y un mapa en concreto respecto a la dopamina. La dopamina, el neurotransmisor de la motivación, se produce cuando avanzas hacia una meta que valoras. No se produce cuando la alcanzas. No se produce solo por establecer la meta. Se produce cuando tomas una acción que te hace avanzar hacia una meta que valoras.
+
+Entonces, lo primero es establecer una meta. ¿Qué quiero? ¿Qué vida quiero? ¿Cómo quiero vivir? ¿Cuánto quiero ganar? ¿Dónde quiero trabajar? ¿Con quién quiero trabajar? ¿Con quién me quiero relacionar? ¿Quién quiero que sean mis amigos? ¿Qué persona me gustaría ser en un futuro? Todos esos son objetivos que la inmensa mayoría de la gente no se plantea. Avanzan por la vida donde les lleva el viento y con suerte acaban en alguna orilla. Pero no vas a acabar en la orilla que quieres si no lo decides tú de antemano.
+
+¿Por qué la gente no se pone objetivos? Uno, la gente no sabe lo que quiere. Mucha gente nos llega en Enso Movers y cuando les preguntamos cuáles son sus objetivos, la respuesta es muy vaga o ni siquiera lo saben y lo están planteando por primera vez. Y es una pregunta difícil, porque te obliga a pararte y reflexionar: ¿dónde estoy? ¿Qué me gustaría ser? Y cuando tienes eso, a lo mejor te das cuenta de que lo que eres y hacia dónde vas no encaja con quién quieres ser. Y eso es un momento difícil.
+
+Creo que puede darse el caso en el que haya mucha gente en una situación en la cual sea demasiado tarde para cambiar. A partir de cierta edad, cierta estabilidad, cierta seguridad, ya no puedes darle al botón de reset. Por eso creo que es muy importante plantearse estas cosas desde el principio. ¿Qué quieres? ¿Dónde quieres estar? ¿Qué quieres hacer? Esto no significa vivir en el mundo de la fantasía de que todo lo que desees y trabajes un poco se va a cumplir. Cabe la posibilidad de que te pongas un objetivo, trabajes hacia él y no avances. Eso puede pasar. Pero si no lo estableces y no estableces un mapa, seguro que no llegas en ningún caso.
+
+Otro motivo por el que la gente no se pone objetivos es porque en cuanto te pones uno, estás determinando la condición para fallar. Si te planteas, pongo el ejemplo tangible del entrenamiento, quiero conseguir esta meta y para ello voy a hacer este programa de tantas sesiones, tantos sets, tantas reps... Cada vez que fallas, cada vez que te saltas una sesión, por el hecho de tener un plan te sientes mal. Te sientes que estás fallando al objetivo. Y si no tienes un plan, entrenar un día o siete: ¿qué más da? No hay un marco global, no hay una dirección a la que apuntar. Entonces establecer un objetivo es atarte a la frustración. Y es difícil de llevar, sobre todo cuando no tienes un objetivo, sino veinte en diferentes ámbitos de tu vida.
+
+Y también creo que la gente evita ponerse objetivos porque es una muestra de vulnerabilidad. Si muestras lo que quieres, esa persona, o tú mismo, tiene cierto poder sobre ti: sabes lo que no tienes y lo que quieres. Establecer que quieres avanzar en un ámbito y que en ese ámbito no estás contento contigo mismo creo que requiere bastante madurez y solidez para aceptarlo.
+
+Entonces, ¿qué hacer? Pensar y escribir. Pararse y decir: ¿qué pequeña cosa en mi vida me produce frustración? ¿Dónde hay algo que me pica y estoy girando la cabeza para no prestarle atención? Ese es el ámbito en el que pondría el primer esfuerzo. Coge eso. Puede ser laboral, emocional, relativo a las relaciones personales, físico, comportamental. Lo que sea. ¿Cómo estaría contento? ¿Qué tipo de persona sería la que diría: así es como me gustaría ser? Y lo piensas, lo escribes, lo detallas.
+
+No hace falta que lo detalles al milímetro, pero ten claro que si quieres ser físico, tendrás que hacer un grado, un máster, probablemente un doctorado. Ese es el camino. Y puede ser que en el avanzar te des cuenta de que no quieres esa meta. También puede suceder. Pero está bien, porque en el camino hay valor. No solo en el objetivo final. En el andar hay mucho. Y hay procesos que son más importantes que la recompensa final. Entonces es necesario haber establecido ese objetivo, haberlo andado, para decir: esto no es lo que quiero. Ya sabes una cosa que no quieres.
+
+En Enso Movers mucha gente nos pide dominadas a una mano, planche, pino a una mano... Y lo piden con una alegría que siempre me sorprende. Y lo único que me cabe pensar es que no son realmente conscientes de la cantidad de trabajo que requieren esos objetivos. Una vez se lo expones, mucha gente dice: no, yo es que lo quiero entrenando tres veces a la semana. Y entonces tienes que decirle: entonces no lo quieres. Pues de la misma forma, hay trabajos que piensas que quieres hasta que estás ahí.
+
+Un ejemplo que siempre me ha hecho gracia: la gente que critica a las altas posiciones de compañías o grupos políticos con cierta envidia, como diciendo, míralo ahí en la cima cobrando tantísimo dinero. Cuando en realidad mucha de esa gente lo hace sacrificando su vida entera. Un consultor puede ganar cinco, seis, siete mil euros al mes, pero trabajando de sesenta a ochenta horas a la semana, con altos niveles de estrés y una gran exigencia de movilidad. ¿Estás dispuesto a eso? Mucha gente lo probaría un mes y diría: no puedo con esto. Entonces no lo quieres.
+
+Estate siempre dispuesto a cambiar el plan, cambiar la ruta, cambiar los objetivos. No los cambies arbitrariamente, pero mantén un pequeño proceso en el fondo de la cabeza donde regularmente, cada cierto tiempo, dices: ¿es esto lo que quiero? ¿Cuál es el paso siguiente? ¿Hacia dónde me lleva? ¿Cómo me siento al respecto?
+
+Es muy importante establecer objetivos para poder apuntar a ellos y avanzar. Somos terribles en esto.
