@@ -1,0 +1,29 @@
+---
+title: "Nobelitis"
+date: 2024-08-23
+tags: ["critical thinking", "cognitive biases", "science", "intellectual humility"]
+videoUrl: "https://www.youtube.com/watch?v=oAJAjQBOP64"
+lang: "en"
+---
+
+Today I want to talk about a rare disease. So rare that probably none of you listening to this will ever contract it, and neither will I. But knowing of its existence will improve your information filter.
+
+It's a disease you contract when you're given a Nobel Prize and that can spread throughout your career. Some people are immune, but it's common enough to have received the name Nobelitis. Nobelitis is the hypothetical disease — more accurately a psychological bias — of receiving a lot of recognition in one field and believing that recognition makes you special, makes you superior to others, and leads you to express strong opinions in fields outside your area of expertise. With opinions that are generally wrong.
+
+This, despite being called Nobelitis, is a phenomenon I think appears quite frequently on social media with people who gain large audiences. For example, I've seen it in people like Jordan Peterson, whose initial work I find genuinely fascinating — on the psychology in the Bible, on the ecological motivations behind myths, on the stories we absorb. But who, due to the fame and growth that social media has brought him, has increasingly been asked for his opinion on more and more fields that aren't his professional area, and has been spectacularly wrong on many things.
+
+When we're experts in a field and receive recognition for it — and especially with the Nobel, where your recognition often comes hand in hand with transgressing social conventions — it's very easy to think you have some kind of capacity above others to analyze problems. That in everything you get involved in you'll have a revolutionary, richer, more valid perspective than the people already working within it.
+
+Additionally, I think it comes with the fact that belonging to a small, radical group is extraordinarily attractive psychologically. It creates a very strong in-group of those who know the truth, with a capital T. And those of you who know the truth are against the establishment, against convention, against everything everyone else knows, because you're special minds. This is why many people join cults or believe in conspiracy theories: it creates that sense of being special. We have to be very alert to that temptation when we want to be critical thinkers. Because while conventional knowledge is wrong in many ways and you have to be critical, alternative theories aren't always valid. Sometimes conventional knowledge is just fine and there's nothing to add. You don't always have to be transgressive.
+
+And when you start being explicitly asked for your opinion on topics you know nothing about, it's very hard to say "I don't know." Personally — and this might sound a bit self-absorbed — in some friend groups, because I'm doing a PhD in physics, I'm sometimes asked for opinions on things like the Israeli-Palestinian conflict. And my honest answer is: I have no idea. I haven't read anything about it beyond friends-of-friends opinions, and I don't have a political science background that would give me the tools to, even if I read about it now, evaluate the situation with a critical mindset. The answer I can give you might be more elaborate, might have more technical-sounding words, might give the impression I know what I'm talking about. And I think that's the trap: the form can be adequate, but the substance is no deeper than the guy at the bar.
+
+Knowing how to say that — not in one area, but in many — is very hard. It requires a lot of humility. And it's a version of the Saint George syndrome: after slaying the dragon, once you've come home, received all your honors, you wake up one morning and think, well, life goes on. You've already slain the dragon. What do you do now if there are no more dragons? Saint George decides to go in search of more dragons. Each time he finds things that look less and less like a dragon, or smaller dragons, until finally he finds himself waving his sword at the air.
+
+Once you've been revolutionary in a field and been recognized for it, what do you do next? Many seem to feel the need to create another intellectual rupture, to keep proving their worth. And they embark on enterprises where they have no educational background. And while this can be problematic for the individual, today it's problematic for many of us who follow them on social media and podcasts, and hear their opinions not knowing they're completely outside their area.
+
+Telling a Nobel laureate they're wrong is hard. Who are you to tell a Nobel laureate they're wrong? Well, it turns out sometimes you're more of an expert than they are on that specific topic. It's worth having that chip installed: this person might have a PhD, might be very famous, might have lots of awards, and they're talking about something that isn't their field. I'll give them more trust than a completely random person, because they've developed certain critical capacities. But I'm not going to take their word as gospel. And the further from their field they are, the more doubt I'm going to cast on their arguments. No matter how good they sound.
+
+This is especially critical when talking about politics or social policies like climate change. Since many Nobel laureates who have suffered from Nobelitis have been known for far-right positions, climate denialism, or defending mystical cures for diseases. There's a Wikipedia article on the topic that I'll leave in the notes if you want to read it in detail.
+
+I just wanted to point out that this is a real problem and worth keeping in mind if we want to develop that critical mindset we've talked about many times on this channel.

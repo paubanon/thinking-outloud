@@ -1,0 +1,29 @@
+---
+title: "Why We Like Danger"
+date: 2018-03-06
+tags: ["danger", "hierarchy", "learning", "risk"]
+videoUrl: "https://www.youtube.com/watch?v=O34rKG60hEc"
+lang: "en"
+---
+
+It's 9:47 on this fantastic Tuesday morning. I'm here walking the dog and, like every morning over breakfast, I've been reading. I'm currently into Jordan Peterson's book, Twelve Rules for Life, which has been very interesting and has given me material for quite a few videos. The chapter I was reading today is called "Don't bother kids when they are skateboarding."
+
+The chapter starts by talking about kids who skateboard and how governments put obstacles in the way of them doing it, and how playgrounds get redesigned so children don't get hurt. A very interesting line from Peterson is that play environments have to be sufficiently safe. Sufficiently safe, not completely safe. Because if you make a play environment too safe, either the kids stop playing or they play in ways you don't expect in order to make it dangerous again.
+
+And it's something that grates against our rationalized Western mind: the idea that people might risk getting hurt. Why do kids risk breaking a bone skateboarding? Why do people climb, do acrobatics, jump out of planes, climb construction cranes? My mother always says: "These people are out of their minds! I'd never understand it!" And at least for me it's a mix. I understand that for some it's because life doesn't feel worth it to them. But I also understand them because in some sense I do the same thing on a different scale. If there's no risk, something stops being interesting.
+
+This can come from two things, which is the meat of this video.
+
+On one hand, if there's no risk there's no challenge. If there's nothing difficult to overcome, doing something is pointless. It's boring. A challenge has to be something that costs you or that you've never done before and that lets you grow. There has to be an element of chaos, of danger to your status, your health, your prior knowledge. If nothing is at stake, if there's no danger to any part of what makes you who you are, it's not interesting. The game loses its appeal and the players stop playing.
+
+That explains in part why so many people resonate so much with training at Show Movers. We always push people and make them do things they've never tried, in difficult positions, work hard, and eventually be able to do parkour or acrobatics — disciplines that are inherently dangerous by definition. Why do people do that and yet hate gyms? Because a conventional gym is boring, safe, repetitive, monotonous. Always the same. Whereas doing acrobatics or climbing, you know you can always fail, you can always find a harder challenge, you don't know if you'll pull it off. That's what makes you grow.
+
+And this extends beyond training to conversations with people. If a conversation has nothing new in it, it's boring. If there's no danger to your ideas, if the other person can't make you question anything, if it's all confirmation because you both think the same way — the conversation is boring. Either because the other person isn't very interesting or because they're too agreeable, too polite to say "I disagree with that." An interesting conversation is with someone who offers a new perspective, who says "have you thought about this?", who doesn't agree on something and there's debate and confrontation, there's a kind of flirting around ideas. That's exciting, on an intellectual level. The other thing isn't a conversation.
+
+On the other hand, the second reason — and this is more characteristic of men than women — risk as a means of climbing the social hierarchy. Doing something dangerous and coming back successfully moves you up. It might seem like a social construct, but before jumping down my throat calling me sexist, keep in mind that hierarchies aren't something characteristic of humans — they're found across an enormous range of species. You face a danger and come back triumphant, you go up the hierarchy. That's why kids dare each other on the swings, because they know instinctively, long before they could have been influenced by society, that if you do something nobody else dares to do and you pull it off, you're king for a while. Until someone does something cooler and comes back successfully.
+
+And it doesn't stop there. It holds up in our society. Why do elite athletes have high status? Because they do something no one else can do. They've climbed in their hierarchy and they're at the top of it. There's no single hierarchy and you can climb in whichever one you want or are able to.
+
+All of this together I think is an interesting framework for explaining behaviors like why you'd do parkour knowing you might miss a jump and break your shin, why you'd do an acrobatic move knowing you might twist a finger or sprain something. What does it do to a human being — the only animal conscious of its own existence and capable of looking beyond the immediate present — to face that risk instead of staying safely at home?
+
+I think those two elements are key: risk as a generator of learning, and risk as a means of climbing the social hierarchy. I'm talking about risk at every level. It's not the same to say you fight the dragon as to actually go fight it and come back with the gold. It's the person who takes risks, the person who can grow, the person who has greater social value. And when you reflect on it a bit you'll see that it's not something only characteristic of sport. It's in conversations: risking saying something that might offend, that might be rejected, that might bother someone. If you're not putting anything on the line, if you're always too nice to say what you think, you're very low in the hierarchy because you've never taken any risks, you've never accepted that you're an individual capable of facing chaos, turning it into order, and coming back from the dragon's cave with the gold.

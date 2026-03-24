@@ -1,0 +1,45 @@
+---
+title: "How I learned 6 languages without studying"
+date: 2021-01-20
+tags: ["languages", "learning", "language", "education"]
+videoUrl: "https://www.youtube.com/watch?v=PeQYfLA_Im0"
+lang: "en"
+---
+
+Good morning everyone. Today I want to talk about a topic I never thought I'd cover in a video, and that's languages. Because I've never liked languages, I'm not going to lie. And yet, despite not liking them, I'm currently learning my fifth language, or my seventh, depending on how you look at it. I'll get to that later.
+
+I've never liked the way languages are taught. I've always had the feeling that it's a completely inefficient method, one that's not in line with how the brain actually works. You memorize vocabulary, memorize tables, memorize how to use verb tenses... fairly unnatural, honestly. Because I'd look at myself and think: but that's not how I manage a language I already know. A language I already know I don't have to rationalize. I don't think "oh, I'm going to conjugate this because it's a past action that gets interrupted by another, so I use this tense." No, the tense comes out and flows. And so the standard way of learning languages has never made sense to me.
+
+Off the back of that, because of how things have unfolded in my life, I've ended up learning quite a few languages. You could count as many as seven, let's say. Somewhere between four and seven. And you'll understand why in a moment. And I've realized that none of these languages did I learn using standard techniques. And as a result it's been much more enjoyable and I've learned them much faster.
+
+The first thing I'd like to say is that I'm no expert in language neuroscience or linguistics. If you want you can throw this video in the trash. But I've spent a reasonable amount of time thinking about how a language is learned, why it's learned, and what the optimal way of learning it is.
+
+What I think the traditional approach is missing is that breaking a language down into its logical parts doesn't mean the best way to learn it is to learn each element individually and then put them together rationally. Because language, cerebrally, isn't produced through the rational part of the brain. It's something more automatic. It's like a motor reflex. You're not thinking "oh, this is this tense, so it has this ending." It's not that you're thinking it so fast that you don't notice. You're not thinking it at all.
+
+I said I speak between 4 and 7 languages because I've counted among them mathematics and programming languages. In total that would be Spanish, Catalan, English, Italian, and now I'm learning German, mathematics, and programming languages. I decided to include mathematics and programming languages together because they're similar enough to consider as a group. They have their own vocabulary, they have syntactic rules, they're designed to communicate information. If you haven't studied them, you don't understand them. And they're independent of the language you speak.
+
+Count it however you like. I genuinely don't care how many languages I speak. I'm not one of those people going around saying "you know what? I speak seven languages." No. I couldn't care less. It's just to make a title with a bit of clickbait. Count it as five, four, or seven. I don't mind.
+
+First: why do traditional methods fail? As I was studying English in school I could see I didn't like it. It put me off. And I never properly learned English until I told the traditional methods to go to hell. That doesn't mean they're useless — they have their place, it's useful to be able to break down a language into its elements. But it's not how I approach learning a language.
+
+What you need before anything in order to learn a language is interest. You're not going to learn a language by force, or it's going to be horrible, incredibly boring, it's going to require incredible amounts of concentration and willpower. And by interest I don't mean just "I want to learn the language." It has to be genuine interest. Not "oh, it would be nice to have German on my résumé." Are you willing to put in all the hours? And are those hours going to be interesting ones?
+
+The absolute key in my method is that the language is not an end in itself. The language is a means through which you get something else. What do you actually care about? If you approach it this way, your brain will say: we have no choice but to learn the language in the most natural way possible because the ultimate goal actually matters to us.
+
+For example, when I learned English, I learned it for two reasons: Magic: The Gathering cards and nutrition and training. In both cases my goal wasn't to learn English — zero. It was that the information I needed was only available in English. And with Italian: someone gave me a book I was interested in, and I said, well, since I have it and it's fairly similar, I now feel like learning Italian. But I'm going to do it through the book because I want to read that book. The book was what mattered; Italian was a byproduct.
+
+The best tool I've found for learning a language is reading. Having access to texts you can read with around 60-80% comprehension. It's easier if you're learning languages close to ones you already know. If you come from Spanish it'll be very easy to learn French, Italian, Portuguese, Catalan. It'll be much harder to learn German. However, if you know English, learning German is much easier because they're similar languages.
+
+The idea is to take the original text and try to read it. Straight through. And that "I didn't catch any of it" isn't what your brain does if you don't care. If you don't care, it skips it. But if the information behind it matters to you, you make an effort to decode it. You literally decode it. It's very useful, in addition to decoding, to have a nearby translation to compare with when you get really stuck. And when you understand something, you don't just move on: you pay attention to the similarity of the sentence structures, the similarities and differences.
+
+If you think about it, this way of learning doesn't involve memorizing words or forced grammar structures. It involves exposing yourself a lot and letting your brain memorize what it needs to memorize and forget what it needs to forget. Spaced repetition, which is a very good way of memorizing, is what happens naturally if you expose yourself to the language a lot.
+
+You have to keep the language at hand, every day. With the Italian book, it wasn't just a book to learn Italian — it was the book of... every day I pick up this book because I'm reading this book. Once you can read, you start identifying vocabulary, you start learning different words, and then your brain starts being able to listen. Because you can read very slowly; you can't listen quite so slowly. Once you have some control over reading, you can start listening. And once you get listening, reproducing it by speaking comes fairly easily.
+
+Alongside reading, it's very interesting to occasionally sprinkle in a little grammar or a little vocabulary. Not "I'm going to hammer it in," but you look at it, you copy it once, you pay attention. You maybe learn one or two verb tenses, generally a present, a future, a past, and a conditional. With those four you can get by, basically, but you've got the temporal structure to communicate.
+
+Right now I'm learning German with a course called Smarter German. This guy, after 20-something years of teaching German, sat down and said: let's see, what's the best way to learn a language? And based on that premise he built the course. He throws a text at you, you don't understand any of it, and then he explains it very gradually and in parallel with English. Look, this word — you see? If you change the T to a D it's similar to this. Like that. And he breaks it down very, very slowly. And as you progress, he drops in little grammar rules here and there, so that once your brain has a few examples, it connects them with a rule and says: right, the rule is this.
+
+With Italian I could hold a full conversation after four months, and now that I've been at it about six months I can spend the entire day speaking in Italian. Italian has the advantage of being very similar to Spanish, so when you don't know a word, you improvise and throw in a Spanish variant cobbled together with tape and it usually works.
+
+The important thing is to keep the exposure constant. And once you reach a certain level — which is breaking through the comprehension barrier and being able to read a bit and speak basically — you just let your brain do what it needs to do. And when something trips you up and you have a doubt, you look it up. But above all, above all, what I want you to take away from this video is the importance of interest. For me there's no value in learning languages just to learn languages. But if a language matters to you, if it genuinely matters to you emotionally, that's when your brain will feel it's worth investing that energy, and that's how fast it'll learn it.

@@ -1,0 +1,15 @@
+---
+title: "Fear and Uncertainty"
+date: 2018-02-05
+tags: ["fear", "uncertainty", "responsibility", "stoicism"]
+videoUrl: "https://www.youtube.com/watch?v=mfVqdKtnu3A"
+lang: "en"
+---
+
+I was watching a video about fear. The idea of the video was to change the way we think about it: something we have to avoid, something we shy away from, something we try to keep at bay. The video reflected on the different types of fear, the necessity of them, on how fear is something that keeps you alive, that makes you react with agility, like an alert mechanism. And it talked about the need to accept that fear is part of life and that you shouldn't run from it. To understand it, to grasp it as part of life, to accept it. And that will get you where you want to go, because you're not paralyzed by it. In any area, whether personal, academic, professional.
+
+This is something I've been turning over for a long time. And it's interesting that when you listen to different people talk about different topics, when you've read enough and listened enough to people of a certain depth, you start to see connections between what one person says and what another says. You start to see that there are certain concepts that are constant across different philosophies, even philosophies that initially seem unrelated. As if it were a truth that simply gets reformulated in different words. The same idea expressed in different forms.
+
+In this case, the idea of fear can be reformulated, for example, in Jordan Peterson's words: take responsibility for your life, stand tall with your shoulders back, don't be afraid to say what you think, don't be afraid to act, take the reins. Or in Taleb: accept that the world is chaotic, that you can't predict everything, that you're better off accepting it and dealing with it. Because if you try to predict absolutely everything in order to eliminate fear, to eliminate uncertainty — which is the more precise formulation of what we fear; what we fear is the unknown, the chaos — you're going to be disappointed. You can't. The world is too complex, with too many factors, and on top of that you yourself evolve in unpredictable ways throughout your life. If you work hard at becoming an interesting person, right now you don't even know what you'll want in a year, what you'll like. You might be a completely different person and you don't know it. You're incapable of putting yourself in the shoes of that person because that person doesn't exist yet.
+
+You can't predict things, both because of the randomness of the external world and because of the impossibility of understanding your future self. What's left then? All that's left is to take responsibility for your life, take the reins, fight to get where you think you can get, accept that the world is uncertain, that that goes hand in hand with fear, and learn to deal with it. To live with it day by day. To learn to improvise, as I've said in other videos. To learn to deal with whatever comes up. To know you're capable of handling it, whatever it is. That's a good mindset: no matter the situation, I know I can handle it.

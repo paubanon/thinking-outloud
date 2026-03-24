@@ -1,0 +1,37 @@
+---
+title: "What to Do with Your Free Time"
+date: 2019-03-20
+tags: ["productivity", "free time", "attention", "habits"]
+videoUrl: "https://www.youtube.com/watch?v=Dl2wnNofhMU"
+lang: "en"
+---
+
+Good morning everyone. As you'll see, a fantastic day. Today is the first week since I finished the oral exam I'd been preparing for four or five months. And I wanted to make a little reflection on this: what happens when you suddenly have a lot of free time after being very busy for a long time? And on how to use that free time productively.
+
+After a long stretch of exams or something similar, the first thing that happens when you rest is the feeling that there's too much free time and you don't know what to do with it. This is something you have to deal with — we've all been through it. At first it's a bit confusing, you feel a little disoriented, a little lost. It can kick in as soon as the first day after finishing the exam. And the feeling is that you don't know what to do with your life.
+
+What usually sets this off is that we fall back into bad habits: binge-watching shows again, lying around at home, not going out because there's no reason to go out. And we end up wasting the free time instead of using it to the fullest to do all those things we could have been doing. And sometimes we find that when that free time is over we haven't done any of the things we thought we wanted to do. We were in productive mode, in exam mode, and we'd tell ourselves: when I have free time I need to do this, this, and this. And then the free time arrives and you do none of it.
+
+The first pragmatic recommendation I've always liked to make is: when you're in exam season or a busy stretch and you have ideas of things you'd like to do, write them down. Write them on a list of "things I want to do when I have free time." And when you have free time and find yourself with nothing to do, go to that list. Because it's incredibly easy to end up wasting an entire afternoon on Facebook. And it doesn't even feel good. You feel like you have free time but you're not making use of it.
+
+Let's say you have so much freedom that you don't know what to do. And that's a problem because, as I said, it seems like we want freedom but then we need constraints to actually get anything done. An extreme but very simple example: think about a game. Why is a game fun? Because you have to figure out how to solve a problem constrained by certain rules. The rules of the game. The moment you break the rules, the game stops being fun. You lose interest, because it loses its difficulty. In your free time you find yourself in a situation where you have absolutely no responsibility on your shoulders. In theory you have infinite free time. And that confuses us.
+
+So what you have to do is set goals. Same story as always. Set goals and go after them in order, one at a time. But they have to be goals that matter to you and that you've been putting off, and you do them at your own pace. In my free time I like doing carpentry tasks. Building parallel bars for myself, carving a pine plank, making blocks, things with my hands. Something that involves getting dirty and putting in effort and spending a whole morning on some kind of physical task, where I can see tangible progress, where I end up dirty and tired and say: this was worth it.
+
+So, whenever you find yourself in the situation of having infinite free time, make a list. Go back to the list you're supposedly supposed to have made. And look at what you need to do. And it's going to be hard. It's going to be hard not to spend an entire afternoon on Instagram or Facebook. I'm warning you.
+
+Another one of my goals for this free stretch was to spend an entire morning reading. Sitting down and being able to spend a whole morning reading. Which is something I used to do a long time ago and have missed. When we have free time we say: I want to spend a morning reading. But when we actually have it, we often don't do it. We wake up late, make a coffee, do nothing, sink into the couch, put the TV on, pick up our phone, watch TV while scrolling Instagram, wait for lunchtime. No. Make use of it.
+
+Make your free time productive. It's free, but it's productive. And that's tricky because unproductivity, at least in my case, brings unhappiness.
+
+You can use it to read books, for example. Don't completely break your sleep cycle. It's hard to get back on track later and an unstable sleep cycle ends up bringing unhappiness. Keep training. Keep having a routine. Very important. In your free time, keep having a routine. Don't let everything go loose, because it doesn't work.
+
+Being able to spend a whole morning reading was also something I wanted to do because developing the capacity to spend an entire morning focused on a single task is a meta-skill. It's a tool that will pay dividends throughout your life. Because being able to stay immersed in something for that long means that when it's time to work, you can stay immersed much longer. And Cal Newport develops this in his book Deep Work. It's not just about being more productive — it's also more satisfying. If you do the same work in one sitting, it's much more satisfying than if you take a bit longer but you're jumping from phone to computer, from computer to phone.
+
+And another thing that has to be cultivated, which goes hand in hand with being able to spend a morning reading, is the ability to do nothing. This morning I woke up and said: what do I do? I said: okay, I'm going to read. Because I want to get through some books. But I'm going to walk into town, which is about forty-five minutes away. And instead of taking the bike, because I'm in a hurry, I'm learning to say: there's no rush. I'm going to enjoy the moment for what it is. And I walked. Learning to spend forty-five minutes walking alone, without a podcast, without music.
+
+Or learning to drink a coffee the way older men do. Sitting on the couch, or on the terrace, or in a café, drinking a coffee, watching the world go by. I think in those moments of solitude you build yourself a great deal. And I think it's a tremendous tool that pays dividends later. Both in learning to be alone, which I'll talk about another time when I've read the book on Digital Minimalism I have pending, and in being with others. Because if you know how to be comfortable on your own, then you know how to be comfortable with others. And if you can be comfortable having a coffee by yourself, you can sit with someone in a café and learn to enjoy their company, enjoying the moment.
+
+A lot of the time today when you're with someone there's this typical urgency: I'm with you but my head is scattered. I'm with you but I'm thinking about the master's, about university, about my phone. And it's hard. And I find it incredibly rare to come across someone who's capable of being with someone, being aware that they're with that person, and being aware that they're enjoying the time with that person, without thinking about anything else. And it's something that improves your personal relationships with your partner and your friends enormously.
+
+Structure your free time. Share your experiences in the comments. And practice being alone. Thank you. By the way, I'm uploading all these episodes to a podcast platform called Anchor, and you can find them on Spotify, on iTunes, on Google Podcasts. It's called Pensamientos de Pablo Banon.

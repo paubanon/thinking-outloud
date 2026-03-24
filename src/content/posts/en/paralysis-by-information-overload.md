@@ -1,0 +1,29 @@
+---
+title: "Paralysis by Information Overload"
+date: 2018-03-15
+tags: ["action", "analysis paralysis", "learning", "productivity"]
+videoUrl: "https://www.youtube.com/watch?v=Uxo-IqOLJs0"
+lang: "en"
+---
+
+Good morning, Thursday whatever-date-it-is in March. It's curious how our brain automates not just tasks, but ways of thinking, ways of analyzing problems. How do you approach problems? What mindset do you have? Are you someone who always complains? Someone who tackles them with courage? Do you stop and analyze calmly? Or do you just charge in headfirst? Those behavioral patterns can become very deeply embedded in the back of our brain. They're ideas or principles you live by and base your actions on, but you're no longer conscious of them. You thought them at some point and now they've been automatically absorbed into your life.
+
+Those patterns are what I like to talk about on this channel. The thing is, sometimes I struggle to find them because I have them so automated. Today, the one I've noticed is about information overload and analysis paralysis.
+
+I was watching a video by André Ospina, a very good physiotherapist with a ton of content, who was talking about the tangential forces produced in the knee when you do partial squats due to overactivation of the quadriceps while neglecting the posterior chain, and how that's exacerbated if you do them against a wall. He was basically arguing this as a point in favor of ass-to-grass squats, all the way down. And that got me thinking about how you can apply the right principles without having all the information about them.
+
+I've been squatting all the way down for years out of pure evolutionary logic. You can go all the way down because you can go all the way down, and there's no evolutionary reason not to. Imagine our ancestors loading a saber-toothed tiger and the Cro-Magnon next to them saying: "Hey man, don't go all the way down or you'll hurt yourself." Said like that it sounds absurd, but what we're doing now in training is our way of compensating for not having an active way of life. To keep joints healthy, they need to move through their full range of motion. If a joint weren't designed to enter a certain range, the body would have already put physiological limits in place to make that so.
+
+So, back to the point: you can start doing things right without needing all the information. You only need the minimum amount of information necessary to do things well. And once you have that: apply it. Apply it and refine as you go. Keep investigating, keep refining, you'll keep building your knowledge.
+
+When I started squatting all the way down I didn't know about muscle activation at different angles, or the benefits for keeping joints through their full range, or hip compression, or cartilage nutrition through imbibition. But I said: it makes sense to go all the way down. And I did. Later I learned all of that. But I didn't need to know it to start. That's the point.
+
+And the thing is, today, in the age of information overload, we tend to want to know the full theoretical framework, all the details, all the complexity, before acting. What does that lead to? To not acting. Because the world is enormously complex, there's always another layer to add, there's always something more to learn, there's always a new variable to refine. Before you start a diet you can always refine it more. Always.
+
+The idea is to refine enough to be able to start taking action. At Enso Movers we have the same thing. We could have had a better structure, more videos, more protocols, gotten to know more doctors, read more about nutrition and sleep, before opening. But that's a mistake. Because you end up never opening. There's a moment where you have to say: I know enough to start, and I know it's not going to be perfect, and I'm going to keep refining it. You're never going to say "I'm ready, I know everything there is to know." Never. So you have to take action sooner.
+
+This applies to opening a business, to any change in your life, to starting to train, to changing how you eat, how you sleep. On the subject of sleep, for example: adjust your schedule to the rhythm of the sun. That's all you need to know to start. Go to bed early and get up early. Later you can refine that carbohydrates increase melatonin secretion, that blue light messes with your circadian rhythms, that magnesium levels matter, that the time you train... There are a thousand variables you can use to improve your sleep. You don't have to separate them all out. Start with the minimum you need and incorporate more as you go. There's a Japanese word, kaizen, which means continuous improvement. Summarized as: better today than yesterday, worse than tomorrow.
+
+Another very common example: seduction. Men tend to want to read everything ever written about seduction and relationships before acting, because we always have the feeling we don't know enough. Wrong. You have to go out, you have to interact, you have to take metaphorical hits to the face. From that trial and error, from field experience, you can learn far more than just from reading. And that doesn't mean you learn the same things as from books, just more slowly. It's that you learn things you can't learn from reading. It applies to dietary changes, to training, to opening a business, to anything.
+
+Don't let the lack of information, or the feeling that there's always more out there, stop you from starting. Prepare well and start. And as you're playing the game, keep refining. Eventually, five years from now, not only will you have started five years ago and have that experience, but throughout those five years you'll have kept studying and kept improving. You'll have a five-year head start on the person who didn't start, plus you'll have read as much as they have.

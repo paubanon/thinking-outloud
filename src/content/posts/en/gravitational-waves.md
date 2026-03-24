@@ -1,0 +1,29 @@
+---
+title: "Gravitational Waves: Testing Philosophy with Physics"
+date: 2024-11-07
+tags: ["physics", "gravitational waves", "general relativity", "philosophy of science"]
+videoUrl: "https://www.youtube.com/watch?v=4BJxIeiyj5w"
+lang: "en"
+---
+
+It's been a long time since I've made a physics video here, and the other day at a quantum gravity seminar we reviewed an aspect that I thought was perfect for this channel. The topic is gravitational waves.
+
+To understand what they are, we first need to understand how physicists model spacetime. Spacetime can be understood as a fabric made up of threads of space and time. It's a multidimensional space of four dimensions, three spatial and one temporal. And this fabric, according to Einstein's general theory of relativity, is flexible. It curves and deforms depending on the position of masses. You can picture it with the classic analogy: a stretched sheet and balls that move around according to how the sheet deforms.
+
+Being an elastic and deformable fabric, it can carry waves. Just like if you shake a sheet, or drop a stone in water, waves propagate outward. The prediction that these gravitational waves exist originated with Einstein, but it wasn't until 1974 that the first indirect detection was made: the wave itself wasn't measured directly, but the effects of gravitational radiation being generated were observed. By watching how the orbital period of two massive objects orbiting each other changed over time, and seeing that it matched exactly with the predictions for gravitational radiation, this was considered the first indirect detection.
+
+It wasn't until 2015, with the LIGO detector, that we managed to directly measure gravitational waves. And LIGO is fascinating, because gravitational waves are extremely weak. To give you a sense of scale, we're measuring an oscillation equivalent to one millionth the size of a proton, over a distance of 4 kilometers. Another way to put it: as if we were measuring the distance from here to an object 4 light-years away with the precision of a single human hair. The precision we've achieved is genuinely extraordinary.
+
+This opened up the new era of astronomy we're in now, in which we're not only able to observe space in the electromagnetic spectrum, but can observe it through gravitational waves. A new era that gives us new information about what's out there, about black holes that have been directly measured for the first time.
+
+But there's one hugely important aspect that doesn't get much attention. The existence of gravitational waves depends on the space we live in being four dimensions or more. If we lived in a three-dimensional space, gravitational waves wouldn't exist, regardless of which theory of gravitation you use.
+
+And this is a powerful thing. One might consider that the idea of spacetime, as a single entity that deforms and combines, is a useful but questionable mathematical artifact. The time dimension is different from the spatial ones. In the spatial dimensions you can go forward, you can go back. In the time dimension you're always moving in a single direction and can't change it. So the philosophical question would arise: is this 3 plus 1 — three spatial dimensions plus one temporal — real? Well, measuring gravitational waves tells us yes. If time were something else, a different mathematical structure, gravitational waves wouldn't exist. We've taken a philosophical question and turned it into a scientific question, a question that can be answered experimentally. This is a fascinating paradigm shift. In the history of physics there are several examples of fundamentally philosophical questions that have been answerable at the empirical level.
+
+And beyond measuring gravitational waves, we've been able to measure their speed. Different theories of gravity predict different propagation speeds. And measuring that speed allows us to determine which theories are correct and which aren't. Well, we've measured the speed of gravitational waves with very high precision and it turns out to be exactly the speed of light.
+
+This was done in 2017. The way it was achieved was by observing the same event — the merger of two neutron stars — which emitted both electromagnetic and gravitational radiation. We were able to measure when the gravitational waves arrived and when the light signal from that event arrived, and there was barely a displacement of approximately one second. We have to consider that these are two wave fronts that traveled through spacetime for millions of years. If there had been even the tiniest difference in speed, they would have kept separating further and further, because they traveled such an enormous distance. Receiving them with a difference of barely one second clearly indicates that gravitational waves travel at the speed of light. And this is yet another test supporting the idea that Einstein's general theory of relativity is the right theory for describing spacetime.
+
+This theory has accumulated an extraordinary number of successes in terms of predictions and precision. The only problem is that in certain regimes, like inside black holes, it doesn't predict the way we expected. That implies we need to either modify it or extend it, whether at the quantum level or otherwise. Most physicists believe we need a theory of quantum gravity. But so far we haven't managed to find one that is satisfactory, for technical reasons I won't go into right now.
+
+I want you to take away this idea: spacetime is an interwoven fabric of threads, three spatial and one temporal. We know there are at least three spatial and one temporal because gravitational waves exist, which we've measured with astonishing precision. That they travel at the speed of light. And that based on all these discoveries we've managed to transform some philosophical questions — like how many dimensions we live in — into experimental questions.
